@@ -1,0 +1,5954 @@
+fileFormatVersion: 2
+guid: 2343ff98232f18d47bea0f0c24fdff8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -467399495293129303
+    second: PSRC_Human_Optimized_Template_0
+  - first:
+      213: 5717317183527954499
+    second: PSRC_Human_Optimized_Template_1
+  - first:
+      213: -5928869539082873226
+    second: PSRC_Human_Optimized_Template_2
+  - first:
+      213: -5821224768897830558
+    second: PSRC_Human_Optimized_Template_3
+  - first:
+      213: 4556398824425215277
+    second: PSRC_Human_Optimized_Template_4
+  - first:
+      213: -2017581833051089792
+    second: PSRC_Human_Optimized_Template_5
+  - first:
+      213: -5089059423753772223
+    second: PSRC_Human_Optimized_Template_6
+  - first:
+      213: 7257208354670252189
+    second: PSRC_Human_Optimized_Template_7
+  - first:
+      213: 6723330706691560290
+    second: PSRC_Human_Optimized_Template_8
+  - first:
+      213: 725033722309232497
+    second: PSRC_Human_Optimized_Template_9
+  - first:
+      213: -2463539486264788591
+    second: PSRC_Human_Optimized_Template_10
+  - first:
+      213: 4079614356563961792
+    second: PSRC_Human_Optimized_Template_11
+  - first:
+      213: 7560992489510206057
+    second: PSRC_Human_Optimized_Template_12
+  - first:
+      213: 8362947792305783433
+    second: PSRC_Human_Optimized_Template_13
+  - first:
+      213: 7182894917822730881
+    second: PSRC_Human_Optimized_Template_14
+  - first:
+      213: 6783128922555574901
+    second: PSRC_Human_Optimized_Template_15
+  - first:
+      213: -5968801285830219130
+    second: PSRC_Human_Optimized_Template_16
+  - first:
+      213: 1137870867061713209
+    second: PSRC_Human_Optimized_Template_17
+  - first:
+      213: -1786128344904105470
+    second: PSRC_Human_Optimized_Template_18
+  - first:
+      213: -7938344841737242914
+    second: PSRC_Human_Optimized_Template_19
+  - first:
+      213: -6704543401343359431
+    second: PSRC_Human_Optimized_Template_20
+  - first:
+      213: 1929135827123729276
+    second: PSRC_Human_Optimized_Template_21
+  - first:
+      213: -5432486901019754419
+    second: PSRC_Human_Optimized_Template_22
+  - first:
+      213: -4065537272508586821
+    second: PSRC_Human_Optimized_Template_23
+  - first:
+      213: -8433694230896185120
+    second: PSRC_Human_Optimized_Template_24
+  - first:
+      213: 6929835593591853636
+    second: PSRC_Human_Optimized_Template_25
+  - first:
+      213: -3491949970307734952
+    second: PSRC_Human_Optimized_Template_26
+  - first:
+      213: 603195545235438015
+    second: PSRC_Human_Optimized_Template_27
+  - first:
+      213: 7686610083334795506
+    second: PSRC_Human_Optimized_Template_28
+  - first:
+      213: -8028984938510717894
+    second: PSRC_Human_Optimized_Template_29
+  - first:
+      213: -7737764659492608743
+    second: PSRC_Human_Optimized_Template_30
+  - first:
+      213: 8404012114493744131
+    second: PSRC_Human_Optimized_Template_31
+  - first:
+      213: -6096281044900064523
+    second: PSRC_Human_Optimized_Template_32
+  - first:
+      213: -6186101466117197904
+    second: PSRC_Human_Optimized_Template_33
+  - first:
+      213: -937802122265167686
+    second: PSRC_Human_Optimized_Template_34
+  - first:
+      213: -8168793901191700391
+    second: PSRC_Human_Optimized_Template_35
+  - first:
+      213: 1239944833285506911
+    second: PSRC_Human_Optimized_Template_36
+  - first:
+      213: -4952161535334285997
+    second: PSRC_Human_Optimized_Template_37
+  - first:
+      213: -8241701058439040946
+    second: PSRC_Human_Optimized_Template_38
+  - first:
+      213: -5092738087165500592
+    second: PSRC_Human_Optimized_Template_39
+  - first:
+      213: -5064456683347812403
+    second: PSRC_Human_Optimized_Template_40
+  - first:
+      213: -4440754223400735660
+    second: PSRC_Human_Optimized_Template_41
+  - first:
+      213: -1053853224463369677
+    second: PSRC_Human_Optimized_Template_42
+  - first:
+      213: -2225181227060449798
+    second: PSRC_Human_Optimized_Template_43
+  - first:
+      213: -702601950079109976
+    second: PSRC_Human_Optimized_Template_44
+  - first:
+      213: 2124268996136991612
+    second: PSRC_Human_Optimized_Template_45
+  - first:
+      213: 8486336547468182511
+    second: PSRC_Human_Optimized_Template_46
+  - first:
+      213: -1527566621296874323
+    second: PSRC_Human_Optimized_Template_47
+  - first:
+      213: -1399114241172687680
+    second: PSRC_Human_Optimized_Template_48
+  - first:
+      213: -5676662241610992255
+    second: PSRC_Human_Optimized_Template_49
+  - first:
+      213: -6250199312842441380
+    second: PSRC_Human_Optimized_Template_50
+  - first:
+      213: 6705011667407720304
+    second: PSRC_Human_Optimized_Template_51
+  - first:
+      213: -5987726896097898368
+    second: PSRC_Human_Optimized_Template_52
+  - first:
+      213: -4724024243158245105
+    second: PSRC_Human_Optimized_Template_53
+  - first:
+      213: 1094390034870874762
+    second: PSRC_Human_Optimized_Template_54
+  - first:
+      213: -3938775660011486300
+    second: PSRC_Human_Optimized_Template_55
+  - first:
+      213: -2945964144677125738
+    second: PSRC_Human_Optimized_Template_56
+  - first:
+      213: 5475620594054374928
+    second: PSRC_Human_Optimized_Template_57
+  - first:
+      213: -681428285827462604
+    second: PSRC_Human_Optimized_Template_58
+  - first:
+      213: 4879690328424805302
+    second: PSRC_Human_Optimized_Template_59
+  - first:
+      213: -7670974780976560366
+    second: PSRC_Human_Optimized_Template_60
+  - first:
+      213: 3249388778391327707
+    second: PSRC_Human_Optimized_Template_61
+  - first:
+      213: 293746867976456012
+    second: PSRC_Human_Optimized_Template_62
+  - first:
+      213: 7298661521965501182
+    second: PSRC_Human_Optimized_Template_63
+  - first:
+      213: 7398708868262092164
+    second: PSRC_Human_Optimized_Template_64
+  - first:
+      213: -1531891379394653823
+    second: PSRC_Human_Optimized_Template_65
+  - first:
+      213: 848219684106104522
+    second: PSRC_Human_Optimized_Template_66
+  - first:
+      213: 9177429279143520405
+    second: PSRC_Human_Optimized_Template_67
+  - first:
+      213: -6683663581916945718
+    second: PSRC_Human_Optimized_Template_68
+  - first:
+      213: -6900051230759239211
+    second: PSRC_Human_Optimized_Template_69
+  - first:
+      213: 6887167551498645234
+    second: PSRC_Human_Optimized_Template_70
+  - first:
+      213: 6260993760845502817
+    second: PSRC_Human_Optimized_Template_71
+  - first:
+      213: -8283980672957173161
+    second: PSRC_Human_Optimized_Template_72
+  - first:
+      213: -354940101256413738
+    second: PSRC_Human_Optimized_Template_73
+  - first:
+      213: -381610600387867985
+    second: PSRC_Human_Optimized_Template_74
+  - first:
+      213: -7563617808526879126
+    second: PSRC_Human_Optimized_Template_75
+  - first:
+      213: -5834049976452098559
+    second: PSRC_Human_Optimized_Template_76
+  - first:
+      213: 4146489666683523323
+    second: PSRC_Human_Optimized_Template_77
+  - first:
+      213: -7417637418388794386
+    second: PSRC_Human_Optimized_Template_78
+  - first:
+      213: -6368765321491370110
+    second: PSRC_Human_Optimized_Template_79
+  - first:
+      213: 6144468357816623031
+    second: PSRC_Human_Optimized_Template_80
+  - first:
+      213: -5545236585236746002
+    second: PSRC_Human_Optimized_Template_81
+  - first:
+      213: -5082539134466624528
+    second: PSRC_Human_Optimized_Template_82
+  - first:
+      213: 5085444808177512677
+    second: PSRC_Human_Optimized_Template_83
+  - first:
+      213: -1248765872910016394
+    second: PSRC_Human_Optimized_Template_84
+  - first:
+      213: -1082154687753112325
+    second: PSRC_Human_Optimized_Template_85
+  - first:
+      213: -4329558840481663394
+    second: PSRC_Human_Optimized_Template_86
+  - first:
+      213: 8117952313515875165
+    second: PSRC_Human_Optimized_Template_87
+  - first:
+      213: 6252907787608014353
+    second: PSRC_Human_Optimized_Template_88
+  - first:
+      213: -5349169716674704862
+    second: PSRC_Human_Optimized_Template_89
+  - first:
+      213: 2507793622361168745
+    second: PSRC_Human_Optimized_Template_90
+  - first:
+      213: 9047489725705194551
+    second: PSRC_Human_Optimized_Template_91
+  - first:
+      213: -5708989836765443354
+    second: PSRC_Human_Optimized_Template_92
+  - first:
+      213: 3389490054870672136
+    second: PSRC_Human_Optimized_Template_93
+  - first:
+      213: -3358425066950353566
+    second: PSRC_Human_Optimized_Template_94
+  - first:
+      213: -961888931045071811
+    second: PSRC_Human_Optimized_Template_95
+  - first:
+      213: -4782521575812848272
+    second: PSRC_Human_Optimized_Template_96
+  - first:
+      213: -1473462668572627516
+    second: PSRC_Human_Optimized_Template_97
+  - first:
+      213: -6771504487256581749
+    second: PSRC_Human_Optimized_Template_98
+  - first:
+      213: -8233588647130787512
+    second: PSRC_Human_Optimized_Template_99
+  - first:
+      213: -1462777386705927856
+    second: PSRC_Human_Optimized_Template_100
+  - first:
+      213: 2902499520125394265
+    second: PSRC_Human_Optimized_Template_101
+  - first:
+      213: -8609422573397888912
+    second: PSRC_Human_Optimized_Template_102
+  - first:
+      213: 984212038377005905
+    second: PSRC_Human_Optimized_Template_103
+  - first:
+      213: 774272981089383285
+    second: PSRC_Human_Optimized_Template_104
+  - first:
+      213: -4351699235399543116
+    second: PSRC_Human_Optimized_Template_105
+  - first:
+      213: 8093073474298180479
+    second: PSRC_Human_Optimized_Template_106
+  - first:
+      213: 5203684418354363118
+    second: PSRC_Human_Optimized_Template_107
+  - first:
+      213: -3003888593992987670
+    second: PSRC_Human_Optimized_Template_108
+  - first:
+      213: -8960971417071867603
+    second: PSRC_Human_Optimized_Template_109
+  - first:
+      213: 5676124671216216650
+    second: PSRC_Human_Optimized_Template_110
+  - first:
+      213: -6482649716360540341
+    second: PSRC_Human_Optimized_Template_111
+  - first:
+      213: -5613148476617919772
+    second: PSRC_Human_Optimized_Template_112
+  - first:
+      213: 6743230307238390254
+    second: PSRC_Human_Optimized_Template_113
+  - first:
+      213: 1707390960075378332
+    second: PSRC_Human_Optimized_Template_114
+  - first:
+      213: 3989917367059930005
+    second: PSRC_Human_Optimized_Template_115
+  - first:
+      213: -2603026528109498395
+    second: PSRC_Human_Optimized_Template_116
+  - first:
+      213: -6702091885909169407
+    second: PSRC_Human_Optimized_Template_117
+  - first:
+      213: 7690728449498078484
+    second: PSRC_Human_Optimized_Template_118
+  - first:
+      213: -7485679178622702673
+    second: PSRC_Human_Optimized_Template_119
+  - first:
+      213: -7402575149236559458
+    second: PSRC_Human_Optimized_Template_120
+  - first:
+      213: 3057141038729135788
+    second: PSRC_Human_Optimized_Template_121
+  - first:
+      213: -8193740781016839825
+    second: PSRC_Human_Optimized_Template_122
+  - first:
+      213: -2662778015468316301
+    second: PSRC_Human_Optimized_Template_123
+  - first:
+      213: 9050800138261371869
+    second: PSRC_Human_Optimized_Template_124
+  - first:
+      213: -8756911411866798222
+    second: PSRC_Human_Optimized_Template_125
+  - first:
+      213: -7599508604309573625
+    second: PSRC_Human_Optimized_Template_126
+  - first:
+      213: -8908989512254505025
+    second: PSRC_Human_Optimized_Template_127
+  - first:
+      213: -3200456677639392278
+    second: PSRC_Human_Optimized_Template_128
+  - first:
+      213: 6065536001681771922
+    second: PSRC_Human_Optimized_Template_129
+  - first:
+      213: 509827749286823886
+    second: PSRC_Human_Optimized_Template_130
+  - first:
+      213: -7554401562378261514
+    second: PSRC_Human_Optimized_Template_131
+  - first:
+      213: -1942276448724967930
+    second: PSRC_Human_Optimized_Template_132
+  - first:
+      213: -3368793941771962264
+    second: PSRC_Human_Optimized_Template_133
+  - first:
+      213: -7277056447072357140
+    second: PSRC_Human_Optimized_Template_134
+  - first:
+      213: -6141332426919690677
+    second: PSRC_Human_Optimized_Template_135
+  - first:
+      213: 6683659764891432841
+    second: PSRC_Human_Optimized_Template_136
+  - first:
+      213: -7008184849459244508
+    second: PSRC_Human_Optimized_Template_137
+  - first:
+      213: -1408879240576556985
+    second: PSRC_Human_Optimized_Template_138
+  - first:
+      213: 4987123216911609045
+    second: PSRC_Human_Optimized_Template_139
+  - first:
+      213: -4703352993402686386
+    second: PSRC_Human_Optimized_Template_140
+  - first:
+      213: -153194679309569686
+    second: PSRC_Human_Optimized_Template_141
+  - first:
+      213: -5690816336015797458
+    second: PSRC_Human_Optimized_Template_142
+  - first:
+      213: -1098456602608380808
+    second: PSRC_Human_Optimized_Template_143
+  - first:
+      213: -4079419008855297688
+    second: PSRC_Human_Optimized_Template_144
+  - first:
+      213: 5707044707882614454
+    second: PSRC_Human_Optimized_Template_145
+  - first:
+      213: 1662045642165140485
+    second: PSRC_Human_Optimized_Template_146
+  - first:
+      213: -7757569035376442357
+    second: PSRC_Human_Optimized_Template_147
+  - first:
+      213: -6411154740318959311
+    second: PSRC_Human_Optimized_Template_148
+  - first:
+      213: -4924004639730726356
+    second: PSRC_Human_Optimized_Template_149
+  - first:
+      213: 3097849543987868377
+    second: PSRC_Human_Optimized_Template_150
+  - first:
+      213: -3125217862827154695
+    second: PSRC_Human_Optimized_Template_151
+  - first:
+      213: 6734832089710450877
+    second: PSRC_Human_Optimized_Template_152
+  - first:
+      213: -6937802606866049523
+    second: PSRC_Human_Optimized_Template_153
+  - first:
+      213: -2484471386285172195
+    second: PSRC_Human_Optimized_Template_154
+  - first:
+      213: 4654778902418066301
+    second: PSRC_Human_Optimized_Template_155
+  - first:
+      213: 759890203457142013
+    second: PSRC_Human_Optimized_Template_156
+  - first:
+      213: -2993901262304218627
+    second: PSRC_Human_Optimized_Template_157
+  - first:
+      213: -8705507778410305379
+    second: PSRC_Human_Optimized_Template_158
+  - first:
+      213: 2914944974480128429
+    second: PSRC_Human_Optimized_Template_159
+  - first:
+      213: -6513046803010537668
+    second: PSRC_Human_Optimized_Template_160
+  - first:
+      213: -7511775420547518692
+    second: PSRC_Human_Optimized_Template_161
+  - first:
+      213: -1858274863265382665
+    second: PSRC_Human_Optimized_Template_162
+  - first:
+      213: 2694515728212646499
+    second: PSRC_Human_Optimized_Template_163
+  - first:
+      213: -3490235309575116149
+    second: PSRC_Human_Optimized_Template_164
+  - first:
+      213: 6347918109858945200
+    second: PSRC_Human_Optimized_Template_165
+  - first:
+      213: -994887736963261739
+    second: PSRC_Human_Optimized_Template_166
+  - first:
+      213: 4175561050822513462
+    second: PSRC_Human_Optimized_Template_167
+  - first:
+      213: -7480166764851114408
+    second: PSRC_Human_Optimized_Template_168
+  - first:
+      213: -6590578778815119799
+    second: PSRC_Human_Optimized_Template_169
+  - first:
+      213: 6763643331911962544
+    second: PSRC_Human_Optimized_Template_170
+  - first:
+      213: 2326502514994156484
+    second: PSRC_Human_Optimized_Template_171
+  - first:
+      213: 3243323586909210341
+    second: PSRC_Human_Optimized_Template_172
+  - first:
+      213: 252617865110271846
+    second: PSRC_Human_Optimized_Template_173
+  - first:
+      213: -143298528582428110
+    second: PSRC_Human_Optimized_Template_174
+  - first:
+      213: 998268407778354945
+    second: PSRC_Human_Optimized_Template_175
+  - first:
+      213: -5168938487812523267
+    second: PSRC_Human_Optimized_Template_176
+  - first:
+      213: 2311952086369889998
+    second: PSRC_Human_Optimized_Template_177
+  - first:
+      213: 1284513833172282792
+    second: PSRC_Human_Optimized_Template_178
+  - first:
+      213: -7722649689095331786
+    second: PSRC_Human_Optimized_Template_179
+  - first:
+      213: -1818883766649098806
+    second: PSRC_Human_Optimized_Template_180
+  - first:
+      213: 8678775135374989094
+    second: PSRC_Human_Optimized_Template_181
+  - first:
+      213: -6387236124228518085
+    second: PSRC_Human_Optimized_Template_182
+  - first:
+      213: 6026493629611211227
+    second: PSRC_Human_Optimized_Template_183
+  - first:
+      213: -6403581030920708698
+    second: PSRC_Human_Optimized_Template_184
+  - first:
+      213: 1723539824518325589
+    second: PSRC_Human_Optimized_Template_185
+  - first:
+      213: 5594204322105461159
+    second: PSRC_Human_Optimized_Template_186
+  - first:
+      213: 6418456508752323310
+    second: PSRC_Human_Optimized_Template_187
+  - first:
+      213: -4677589280393953017
+    second: PSRC_Human_Optimized_Template_188
+  - first:
+      213: -981802638282899344
+    second: PSRC_Human_Optimized_Template_189
+  - first:
+      213: -3407515462565357364
+    second: PSRC_Human_Optimized_Template_190
+  - first:
+      213: -2964174669099920241
+    second: PSRC_Human_Optimized_Template_191
+  - first:
+      213: 4416920525201376617
+    second: PSRC_Human_Optimized_Template_192
+  - first:
+      213: -1886883490983713806
+    second: PSRC_Human_Optimized_Template_193
+  - first:
+      213: 8832965238007282330
+    second: PSRC_Human_Optimized_Template_194
+  - first:
+      213: -7261214045149414376
+    second: PSRC_Human_Optimized_Template_195
+  - first:
+      213: -6102486807726912315
+    second: PSRC_Human_Optimized_Template_196
+  - first:
+      213: 6617208539258477038
+    second: PSRC_Human_Optimized_Template_197
+  - first:
+      213: -1974115217986777570
+    second: PSRC_Human_Optimized_Template_198
+  - first:
+      213: -293647529306039999
+    second: PSRC_Human_Optimized_Template_199
+  - first:
+      213: -5630821337516107491
+    second: PSRC_Human_Optimized_Template_200
+  - first:
+      213: 673349591483406716
+    second: PSRC_Human_Optimized_Template_201
+  - first:
+      213: -5537035976568238951
+    second: PSRC_Human_Optimized_Template_202
+  - first:
+      213: -8057446080451491451
+    second: PSRC_Human_Optimized_Template_203
+  - first:
+      213: 1388304591127320327
+    second: PSRC_Human_Optimized_Template_204
+  - first:
+      213: -1667659965288159809
+    second: PSRC_Human_Optimized_Template_205
+  - first:
+      213: 4749846810755716541
+    second: PSRC_Human_Optimized_Template_206
+  - first:
+      213: -5045889374019858151
+    second: PSRC_Human_Optimized_Template_207
+  - first:
+      213: -8999580914202459589
+    second: PSRC_Human_Optimized_Template_208
+  - first:
+      213: 1837889838160814542
+    second: PSRC_Human_Optimized_Template_209
+  - first:
+      213: 2701586591090608808
+    second: PSRC_Human_Optimized_Template_210
+  - first:
+      213: 6781517827088665255
+    second: PSRC_Human_Optimized_Template_211
+  - first:
+      213: 4178054867250201934
+    second: PSRC_Human_Optimized_Template_212
+  - first:
+      213: 1954565244865140824
+    second: PSRC_Human_Optimized_Template_213
+  - first:
+      213: 4175806958831239463
+    second: PSRC_Human_Optimized_Template_214
+  - first:
+      213: -8731494616992401261
+    second: PSRC_Human_Optimized_Template_215
+  - first:
+      213: 2678175253584707443
+    second: PSRC_Human_Optimized_Template_216
+  - first:
+      213: 326279493548515853
+    second: PSRC_Human_Optimized_Template_217
+  - first:
+      213: -8614683087603169188
+    second: PSRC_Human_Optimized_Template_218
+  - first:
+      213: -7648425099832932345
+    second: PSRC_Human_Optimized_Template_219
+  - first:
+      213: -947991238984758733
+    second: PSRC_Human_Optimized_Template_220
+  - first:
+      213: -5020338890256968062
+    second: PSRC_Human_Optimized_Template_221
+  - first:
+      213: -9128695459380989432
+    second: PSRC_Human_Optimized_Template_222
+  - first:
+      213: -3980515906885785853
+    second: PSRC_Human_Optimized_Template_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad2bdaa2a67389f0800000000000000
+      internalID: -467399495293129303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ab60dfadf75f40800000000000000
+      internalID: 5717317183527954499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d453119c68bda0800000000000000
+      internalID: -5928869539082873226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b3243aead63fa0800000000000000
+      internalID: -5821224768897830558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255fd807949b3f30800000000000000
+      internalID: 4556398824425215277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08455bf230c1004e0800000000000000
+      internalID: -2017581833051089792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436d46ca670069b0800000000000000
+      internalID: -5089059423753772223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901e195c88c6b460800000000000000
+      internalID: 7257208354670252189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26393dfe7a11e4d50800000000000000
+      internalID: 6723330706691560290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177cb6c3456df0a00800000000000000
+      internalID: 725033722309232497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f90fb3efbfcdd0800000000000000
+      internalID: -2463539486264788591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7249f74a3bd9830800000000000000
+      internalID: 4079614356563961792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af6aefb9a0ee860800000000000000
+      internalID: 7560992489510206057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982068355b82f0470800000000000000
+      internalID: 8362947792305783433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18258c30fd4cea360800000000000000
+      internalID: 7182894917822730881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a6a9601d3822e50800000000000000
+      internalID: 6783128922555574901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae137cade8a2da0800000000000000
+      internalID: -5968801285830219130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939aa7f56878acf00800000000000000
+      internalID: 1137870867061713209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020cbecbb56637e0800000000000000
+      internalID: -1786128344904105470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed672b3fc6555d190800000000000000
+      internalID: -7938344841737242914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9366db57c4da4f2a0800000000000000
+      internalID: -6704543401343359431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73703350daa5ca10800000000000000
+      internalID: 1929135827123729276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 225
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4041c132fdeb94b0800000000000000
+      internalID: -5432486901019754419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e30b046f4497c0800000000000000
+      internalID: -4065537272508586821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0fb27d7cf75fa80800000000000000
+      internalID: -8433694230896185120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44296eba1c8bb2060800000000000000
+      internalID: 6929835593591853636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522f5ec00a1a8fc0800000000000000
+      internalID: -3491949970307734952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93bdb072bfe5800800000000000000
+      internalID: 603195545235438015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f03b1835235caa60800000000000000
+      internalID: 7686610083334795506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6b11ecb0539090800000000000000
+      internalID: -8028984938510717894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152f53e900fd9490800000000000000
+      internalID: -7737764659492608743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304aa74ed7c01a470800000000000000
+      internalID: 8404012114493744131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d8cb60b8a56ba0800000000000000
+      internalID: -6096281044900064523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfaf8fed7d862aa0800000000000000
+      internalID: -6186101466117197904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 207
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f6c040f14cf2f0800000000000000
+      internalID: -937802122265167686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950671c1a3d92ae80800000000000000
+      internalID: -8168793901191700391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f574011a14b253110800000000000000
+      internalID: 1239944833285506911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dfb004253664bb0800000000000000
+      internalID: -4952161535334285997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b7c2cd889f9d80800000000000000
+      internalID: -8241701058439040946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e56431b5f259b0800000000000000
+      internalID: -5092738087165500592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf53b8aa7f67b9b0800000000000000
+      internalID: -5064456683347812403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c226bdf854f52c0800000000000000
+      internalID: -4440754223400735660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af57e6316ff51f0800000000000000
+      internalID: -1053853224463369677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afda138a6719e11e0800000000000000
+      internalID: -2225181227060449798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 208
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b90bbf3bdf36f0800000000000000
+      internalID: -702601950079109976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bfe1aa56bea7d10800000000000000
+      internalID: 2124268996136991612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3814c902685c570800000000000000
+      internalID: 8486336547468182511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2bd6504efccae0800000000000000
+      internalID: -1527566621296874323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c436bea209559ce0800000000000000
+      internalID: -1399114241172687680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18577ea74c17831b0800000000000000
+      internalID: -5676662241610992255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db2a607d4d249a0800000000000000
+      internalID: -6250199312842441380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fcfaa369cfc0d50800000000000000
+      internalID: 6705011667407720304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0805802cc1257eca0800000000000000
+      internalID: -5987726896097898368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012834daf4e07eb0800000000000000
+      internalID: -4724024243158245105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b43a30fd003f00800000000000000
+      internalID: 1094390034870874762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a38f0fd768a659c0800000000000000
+      internalID: -3938775660011486300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918b730835dd17d0800000000000000
+      internalID: -2945964144677125738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016ac615bef4dfb40800000000000000
+      internalID: 5475620594054374928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac95b95941b86f0800000000000000
+      internalID: -681428285827462604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b37bafff7428b340800000000000000
+      internalID: 4879690328424805302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21789ea44193b8590800000000000000
+      internalID: -7670974780976560366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d721c0e5281d20800000000000000
+      internalID: 3249388778391327707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ce975839931400800000000000000
+      internalID: 293746867976456012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac098fbfd0a4560800000000000000
+      internalID: 7298661521965501182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5b41048e7da660800000000000000
+      internalID: 7398708868262092164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d2b028e0adbae0800000000000000
+      internalID: -1531891379394653823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace63a20f4b75cb00800000000000000
+      internalID: 848219684106104522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986e962e47cc5f70800000000000000
+      internalID: 9177429279143520405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac220a1426bde33a0800000000000000
+      internalID: -6683663581916945718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d14992b6f71e30a0800000000000000
+      internalID: -6900051230759239211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6ca7f562249f50800000000000000
+      internalID: 6887167551498645234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169122047a483e650800000000000000
+      internalID: 6260993760845502817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752bf26e773690d80800000000000000
+      internalID: -8283980672957173161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf114cbdff21bf0800000000000000
+      internalID: -354940101256413738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8b594e2f34baf0800000000000000
+      internalID: -381610600387867985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_75
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66dfe94da1a80790800000000000000
+      internalID: -7563617808526879126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10652bfd47a490fa0800000000000000
+      internalID: -5834049976452098559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0df7ff16a4b8930800000000000000
+      internalID: 4146489666683523323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35a4c71124f0990800000000000000
+      internalID: -7417637418388794386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2eaaeea99d97a0800000000000000
+      internalID: -6368765321491370110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf9949aa69854550800000000000000
+      internalID: 6144468357816623031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0b675a4bc5b03b0800000000000000
+      internalID: -5545236585236746002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3781de5913779b0800000000000000
+      internalID: -5082539134466624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e07644fb11239640800000000000000
+      internalID: 5085444808177512677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67061990e0e7baee0800000000000000
+      internalID: -1248765872910016394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 146
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b3748b0a6bf0f0800000000000000
+      internalID: -1082154687753112325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 146
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5630fe6c215ae3c0800000000000000
+      internalID: -4329558840481663394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b9cae4e92c8a070800000000000000
+      internalID: 8117952313515875165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e36a5e08ac6c650800000000000000
+      internalID: 6252907787608014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac35adb7ee3c5b0800000000000000
+      internalID: -5349169716674704862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bd3de33097dc220800000000000000
+      internalID: 2507793622361168745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c87a948f32f8d70800000000000000
+      internalID: 9047489725705194551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac741bdf795c0b0800000000000000
+      internalID: -5708989836765443354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80329422f33e90f20800000000000000
+      internalID: 3389490054870672136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d18aff13a7461d0800000000000000
+      internalID: -3358425066950353566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34adaf0d1fa6a2f0800000000000000
+      internalID: -961888931045071811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a80737f111adb0800000000000000
+      internalID: -4782521575812848272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdede972853d8be0800000000000000
+      internalID: -1473462668572627516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_98
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b899b1abb88c602a0800000000000000
+      internalID: -6771504487256581749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419415bfba6cbd80800000000000000
+      internalID: -8233588647130787512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514be787bb23bbe0800000000000000
+      internalID: -1462777386705927856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd0d97fefb74820800000000000000
+      internalID: 2902499520125394265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b36fb8cf258880800000000000000
+      internalID: -8609422573397888912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ef1362af98ad00800000000000000
+      internalID: 984212038377005905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f30d8c25ceba00800000000000000
+      internalID: 774272981089383285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6dba80a98ab93c0800000000000000
+      internalID: -4351699235399543116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 115
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73fda8227f505070800000000000000
+      internalID: 8093073474298180479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3f3f7863373840800000000000000
+      internalID: 5203684418354363118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb43323d3b0056d0800000000000000
+      internalID: -3003888593992987670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29a00339fb34a380800000000000000
+      internalID: -8960971417071867603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 84
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6ca8a055a5ce40800000000000000
+      internalID: 5676124671216216650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_111
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f0b05fd600906a0800000000000000
+      internalID: -6482649716360540341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f9a343371a12b0800000000000000
+      internalID: -5613148476617919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9a79dbc34c49d50800000000000000
+      internalID: 6743230307238390254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_114
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8104380fd1b710800000000000000
+      internalID: 1707390960075378332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_115
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd4c2b4b80f5730800000000000000
+      internalID: 3989917367059930005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6d130a2130ebd0800000000000000
+      internalID: -2603026528109498395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_117
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b2b5060f26df2a0800000000000000
+      internalID: -6702091885909169407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd25017c4faba60800000000000000
+      internalID: 7690728449498078484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe7a7a2768d1890800000000000000
+      internalID: -7485679178622702673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ee9e4f15c44990800000000000000
+      internalID: -7402575149236559458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_121
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca608b9c3952d6a20800000000000000
+      internalID: 3057141038729135788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_122
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690cd50c2cf94e80800000000000000
+      internalID: -8193740781016839825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799a40c089eb0bd0800000000000000
+      internalID: -2662778015468316301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb1026c5c6ea9d70800000000000000
+      internalID: 9050800138261371869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_125
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2777d1e8773397680800000000000000
+      internalID: -8756911411866798222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007a94303f198690800000000000000
+      internalID: -7599508604309573625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfb36e8d39ec5480800000000000000
+      internalID: -8908989512254505025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f642cb91b593d0800000000000000
+      internalID: -3200456677639392278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_129
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dc5906bdc1d2450800000000000000
+      internalID: 6065536001681771922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_130
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c0e403a5431700800000000000000
+      internalID: 509827749286823886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fba9cfcdcf592790800000000000000
+      internalID: -7554401562378261514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_132
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e142a4cd5ab05e0800000000000000
+      internalID: -1942276448724967930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b13332c3af31d0800000000000000
+      internalID: -3368793941771962264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce439c587b3b20b90800000000000000
+      internalID: -7277056447072357140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3dd522ba95caa0800000000000000
+      internalID: -6141332426919690677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987bce5052121cc50800000000000000
+      internalID: 6683659764891432841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42215b7a20dedbe90800000000000000
+      internalID: -7008184849459244508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74023069bc7a27ce0800000000000000
+      internalID: -1408879240576556985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcae139422d53540800000000000000
+      internalID: 4987123216911609045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_140
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4476f63f555abeb0800000000000000
+      internalID: -4703352993402686386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61f546304ebfddf0800000000000000
+      internalID: -153194679309569686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d9c191b82601b0800000000000000
+      internalID: -5690816336015797458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87458503a8f71c0f0800000000000000
+      internalID: -1098456602608380808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861343f660ef267c0800000000000000
+      internalID: -4079419008855297688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_145
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bebd92bcee733f40800000000000000
+      internalID: 5707044707882614454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c3db5a4b5c01710800000000000000
+      internalID: 1662045642165140485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0441dd4014975490800000000000000
+      internalID: -7757569035376442357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390a3f3bb00707a0800000000000000
+      internalID: -6411154740318959311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a89706edb6aabb0800000000000000
+      internalID: -4924004639730726356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2b0054fb5cdfa20800000000000000
+      internalID: 3097849543987868377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_151
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f26b7079eef0a4d0800000000000000
+      internalID: -3125217862827154695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_152
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d7195a1ee67d50800000000000000
+      internalID: 6734832089710450877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_153
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0658ff7949f7bf90800000000000000
+      internalID: -6937802606866049523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a99ddff62658dd0800000000000000
+      internalID: -2484471386285172195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_155
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b8c9aefb8199040800000000000000
+      internalID: 4654778902418066301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbc5d2d1cab8a00800000000000000
+      internalID: 759890203457142013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_157
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df173cf0aa68376d0800000000000000
+      internalID: -2993901262304218627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_158
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98247e9cc2df2780800000000000000
+      internalID: -8705507778410305379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_159
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b2bf9207f37820800000000000000
+      internalID: 2914944974480128429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_160
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c373015b0720d95a0800000000000000
+      internalID: -6513046803010537668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_161
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f21c9dd00d0c790800000000000000
+      internalID: -7511775420547518692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_162
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe77008bd41636e0800000000000000
+      internalID: -1858274863265382665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a51d557c7d46520800000000000000
+      internalID: 2694515728212646499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_164
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aef3e5a71309fc0800000000000000
+      internalID: -3490235309575116149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_165
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8596163e5581850800000000000000
+      internalID: 6347918109858945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_166
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da99e6dfd27132f0800000000000000
+      internalID: -994887736963261739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_167
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6339b3417a292f930800000000000000
+      internalID: 4175561050822513462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_168
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ecd5085fb113890800000000000000
+      internalID: -7480166764851114408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3f70e48f8984a0800000000000000
+      internalID: -6590578778815119799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_170
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4d0a66c94ddd50800000000000000
+      internalID: 6763643331911962544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3974706b5694020800000000000000
+      internalID: 2326502514994156484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68e515e99920d20800000000000000
+      internalID: 3243323586909210341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b0d12c9a718300800000000000000
+      internalID: 252617865110271846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_174
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a120b5fb6e20ef0800000000000000
+      internalID: -143298528582428110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_175
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 57
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107af1ce3df8add00800000000000000
+      internalID: 998268407778354945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf610e4dd3448b0800000000000000
+      internalID: -5168938487812523267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceeccd5c24b51020800000000000000
+      internalID: 2311952086369889998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad2f4f868283d110800000000000000
+      internalID: 1284513833172282792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_179
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63021bc2603a3d490800000000000000
+      internalID: -7722649689095331786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_180
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde721e9d602c6e0800000000000000
+      internalID: -1818883766649098806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_181
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d485e004317870800000000000000
+      internalID: 8678775135374989094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff0d6069afb57a0800000000000000
+      internalID: -6387236124228518085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_183
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97122c60862a350800000000000000
+      internalID: 6026493629611211227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9a81eaf8e127a0800000000000000
+      internalID: -6403581030920708698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55567a4b65e3be710800000000000000
+      internalID: 1723539824518325589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a90d0c013b92ad40800000000000000
+      internalID: 5594204322105461159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_187
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e9723030f21950800000000000000
+      internalID: 6418456508752323310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_188
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70181f8155dd51fb0800000000000000
+      internalID: -4677589280393953017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0704b99c3bfef52f0800000000000000
+      internalID: -981802638282899344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_190
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc814279db216b0d0800000000000000
+      internalID: -3407515462565357364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_191
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f849614e7d22dd6d0800000000000000
+      internalID: -2964174669099920241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_192
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96582c9d0dd0c4d30800000000000000
+      internalID: 4416920525201376617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ed5b467170d5e0800000000000000
+      internalID: -1886883490983713806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3cccb51ff49a70800000000000000
+      internalID: 8832965238007282330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cbac82c4cfa3b90800000000000000
+      internalID: -7261214045149414376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_196
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0eeaa49c9f4ba0800000000000000
+      internalID: -6102486807726912315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_197
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9de236b1c05db50800000000000000
+      internalID: 6617208539258477038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_198
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e84362ba88a94e0800000000000000
+      internalID: -1974115217986777570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_199
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149da8eb021ccebf0800000000000000
+      internalID: -293647529306039999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_200
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1999afa3dd4bd1b0800000000000000
+      internalID: -5630821337516107491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79d50ac2e7385900800000000000000
+      internalID: 673349591483406716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8714ad1f7823b0800000000000000
+      internalID: -5537035976568238951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58943d1ea733e2090800000000000000
+      internalID: -8057446080451491451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_204
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707103a8baf344310800000000000000
+      internalID: 1388304591127320327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 28
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ebd2e8184bd8e0800000000000000
+      internalID: -1667659965288159809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_206
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5dd943288dae140800000000000000
+      internalID: 4749846810755716541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_207
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d0ad395669f9b0800000000000000
+      internalID: -5045889374019858151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_208
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c39127d01b1380800000000000000
+      internalID: -8999580914202459589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_209
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec120ebf11f718910800000000000000
+      internalID: 1837889838160814542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa0ae3e0b6fd7520800000000000000
+      internalID: 2701586591090608808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4991a88acc1e50800000000000000
+      internalID: 6781517827088665255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_212
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454a86f3ce6bf930800000000000000
+      internalID: 4178054867250201934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_213
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d2860cb2002b10800000000000000
+      internalID: 1954565244865140824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218dbffd4273f930800000000000000
+      internalID: 4175806958831239463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398bee348ef73d680800000000000000
+      internalID: -8731494616992401261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_216
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f782c143aca2520800000000000000
+      internalID: 2678175253584707443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_217
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02247e787d278400800000000000000
+      internalID: 326279493548515853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_218
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5809d6df5f727880800000000000000
+      internalID: -8614683087603169188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_219
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c64115e55bd590800000000000000
+      internalID: -7648425099832932345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_220
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a8126adfe08d2f0800000000000000
+      internalID: -947991238984758733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_221
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869722d06c245ab0800000000000000
+      internalID: -5020338890256968062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_222
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ffd878db505180800000000000000
+      internalID: -9128695459380989432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_Template_223
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307e7435fdd52c8c0800000000000000
+      internalID: -3980515906885785853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PSRC_Human_Optimized_Template_0: -467399495293129303
+      PSRC_Human_Optimized_Template_1: 5717317183527954499
+      PSRC_Human_Optimized_Template_10: -2463539486264788591
+      PSRC_Human_Optimized_Template_100: -1462777386705927856
+      PSRC_Human_Optimized_Template_101: 2902499520125394265
+      PSRC_Human_Optimized_Template_102: -8609422573397888912
+      PSRC_Human_Optimized_Template_103: 984212038377005905
+      PSRC_Human_Optimized_Template_104: 774272981089383285
+      PSRC_Human_Optimized_Template_105: -4351699235399543116
+      PSRC_Human_Optimized_Template_106: 8093073474298180479
+      PSRC_Human_Optimized_Template_107: 5203684418354363118
+      PSRC_Human_Optimized_Template_108: -3003888593992987670
+      PSRC_Human_Optimized_Template_109: -8960971417071867603
+      PSRC_Human_Optimized_Template_11: 4079614356563961792
+      PSRC_Human_Optimized_Template_110: 5676124671216216650
+      PSRC_Human_Optimized_Template_111: -6482649716360540341
+      PSRC_Human_Optimized_Template_112: -5613148476617919772
+      PSRC_Human_Optimized_Template_113: 6743230307238390254
+      PSRC_Human_Optimized_Template_114: 1707390960075378332
+      PSRC_Human_Optimized_Template_115: 3989917367059930005
+      PSRC_Human_Optimized_Template_116: -2603026528109498395
+      PSRC_Human_Optimized_Template_117: -6702091885909169407
+      PSRC_Human_Optimized_Template_118: 7690728449498078484
+      PSRC_Human_Optimized_Template_119: -7485679178622702673
+      PSRC_Human_Optimized_Template_12: 7560992489510206057
+      PSRC_Human_Optimized_Template_120: -7402575149236559458
+      PSRC_Human_Optimized_Template_121: 3057141038729135788
+      PSRC_Human_Optimized_Template_122: -8193740781016839825
+      PSRC_Human_Optimized_Template_123: -2662778015468316301
+      PSRC_Human_Optimized_Template_124: 9050800138261371869
+      PSRC_Human_Optimized_Template_125: -8756911411866798222
+      PSRC_Human_Optimized_Template_126: -7599508604309573625
+      PSRC_Human_Optimized_Template_127: -8908989512254505025
+      PSRC_Human_Optimized_Template_128: -3200456677639392278
+      PSRC_Human_Optimized_Template_129: 6065536001681771922
+      PSRC_Human_Optimized_Template_13: 8362947792305783433
+      PSRC_Human_Optimized_Template_130: 509827749286823886
+      PSRC_Human_Optimized_Template_131: -7554401562378261514
+      PSRC_Human_Optimized_Template_132: -1942276448724967930
+      PSRC_Human_Optimized_Template_133: -3368793941771962264
+      PSRC_Human_Optimized_Template_134: -7277056447072357140
+      PSRC_Human_Optimized_Template_135: -6141332426919690677
+      PSRC_Human_Optimized_Template_136: 6683659764891432841
+      PSRC_Human_Optimized_Template_137: -7008184849459244508
+      PSRC_Human_Optimized_Template_138: -1408879240576556985
+      PSRC_Human_Optimized_Template_139: 4987123216911609045
+      PSRC_Human_Optimized_Template_14: 7182894917822730881
+      PSRC_Human_Optimized_Template_140: -4703352993402686386
+      PSRC_Human_Optimized_Template_141: -153194679309569686
+      PSRC_Human_Optimized_Template_142: -5690816336015797458
+      PSRC_Human_Optimized_Template_143: -1098456602608380808
+      PSRC_Human_Optimized_Template_144: -4079419008855297688
+      PSRC_Human_Optimized_Template_145: 5707044707882614454
+      PSRC_Human_Optimized_Template_146: 1662045642165140485
+      PSRC_Human_Optimized_Template_147: -7757569035376442357
+      PSRC_Human_Optimized_Template_148: -6411154740318959311
+      PSRC_Human_Optimized_Template_149: -4924004639730726356
+      PSRC_Human_Optimized_Template_15: 6783128922555574901
+      PSRC_Human_Optimized_Template_150: 3097849543987868377
+      PSRC_Human_Optimized_Template_151: -3125217862827154695
+      PSRC_Human_Optimized_Template_152: 6734832089710450877
+      PSRC_Human_Optimized_Template_153: -6937802606866049523
+      PSRC_Human_Optimized_Template_154: -2484471386285172195
+      PSRC_Human_Optimized_Template_155: 4654778902418066301
+      PSRC_Human_Optimized_Template_156: 759890203457142013
+      PSRC_Human_Optimized_Template_157: -2993901262304218627
+      PSRC_Human_Optimized_Template_158: -8705507778410305379
+      PSRC_Human_Optimized_Template_159: 2914944974480128429
+      PSRC_Human_Optimized_Template_16: -5968801285830219130
+      PSRC_Human_Optimized_Template_160: -6513046803010537668
+      PSRC_Human_Optimized_Template_161: -7511775420547518692
+      PSRC_Human_Optimized_Template_162: -1858274863265382665
+      PSRC_Human_Optimized_Template_163: 2694515728212646499
+      PSRC_Human_Optimized_Template_164: -3490235309575116149
+      PSRC_Human_Optimized_Template_165: 6347918109858945200
+      PSRC_Human_Optimized_Template_166: -994887736963261739
+      PSRC_Human_Optimized_Template_167: 4175561050822513462
+      PSRC_Human_Optimized_Template_168: -7480166764851114408
+      PSRC_Human_Optimized_Template_169: -6590578778815119799
+      PSRC_Human_Optimized_Template_17: 1137870867061713209
+      PSRC_Human_Optimized_Template_170: 6763643331911962544
+      PSRC_Human_Optimized_Template_171: 2326502514994156484
+      PSRC_Human_Optimized_Template_172: 3243323586909210341
+      PSRC_Human_Optimized_Template_173: 252617865110271846
+      PSRC_Human_Optimized_Template_174: -143298528582428110
+      PSRC_Human_Optimized_Template_175: 998268407778354945
+      PSRC_Human_Optimized_Template_176: -5168938487812523267
+      PSRC_Human_Optimized_Template_177: 2311952086369889998
+      PSRC_Human_Optimized_Template_178: 1284513833172282792
+      PSRC_Human_Optimized_Template_179: -7722649689095331786
+      PSRC_Human_Optimized_Template_18: -1786128344904105470
+      PSRC_Human_Optimized_Template_180: -1818883766649098806
+      PSRC_Human_Optimized_Template_181: 8678775135374989094
+      PSRC_Human_Optimized_Template_182: -6387236124228518085
+      PSRC_Human_Optimized_Template_183: 6026493629611211227
+      PSRC_Human_Optimized_Template_184: -6403581030920708698
+      PSRC_Human_Optimized_Template_185: 1723539824518325589
+      PSRC_Human_Optimized_Template_186: 5594204322105461159
+      PSRC_Human_Optimized_Template_187: 6418456508752323310
+      PSRC_Human_Optimized_Template_188: -4677589280393953017
+      PSRC_Human_Optimized_Template_189: -981802638282899344
+      PSRC_Human_Optimized_Template_19: -7938344841737242914
+      PSRC_Human_Optimized_Template_190: -3407515462565357364
+      PSRC_Human_Optimized_Template_191: -2964174669099920241
+      PSRC_Human_Optimized_Template_192: 4416920525201376617
+      PSRC_Human_Optimized_Template_193: -1886883490983713806
+      PSRC_Human_Optimized_Template_194: 8832965238007282330
+      PSRC_Human_Optimized_Template_195: -7261214045149414376
+      PSRC_Human_Optimized_Template_196: -6102486807726912315
+      PSRC_Human_Optimized_Template_197: 6617208539258477038
+      PSRC_Human_Optimized_Template_198: -1974115217986777570
+      PSRC_Human_Optimized_Template_199: -293647529306039999
+      PSRC_Human_Optimized_Template_2: -5928869539082873226
+      PSRC_Human_Optimized_Template_20: -6704543401343359431
+      PSRC_Human_Optimized_Template_200: -5630821337516107491
+      PSRC_Human_Optimized_Template_201: 673349591483406716
+      PSRC_Human_Optimized_Template_202: -5537035976568238951
+      PSRC_Human_Optimized_Template_203: -8057446080451491451
+      PSRC_Human_Optimized_Template_204: 1388304591127320327
+      PSRC_Human_Optimized_Template_205: -1667659965288159809
+      PSRC_Human_Optimized_Template_206: 4749846810755716541
+      PSRC_Human_Optimized_Template_207: -5045889374019858151
+      PSRC_Human_Optimized_Template_208: -8999580914202459589
+      PSRC_Human_Optimized_Template_209: 1837889838160814542
+      PSRC_Human_Optimized_Template_21: 1929135827123729276
+      PSRC_Human_Optimized_Template_210: 2701586591090608808
+      PSRC_Human_Optimized_Template_211: 6781517827088665255
+      PSRC_Human_Optimized_Template_212: 4178054867250201934
+      PSRC_Human_Optimized_Template_213: 1954565244865140824
+      PSRC_Human_Optimized_Template_214: 4175806958831239463
+      PSRC_Human_Optimized_Template_215: -8731494616992401261
+      PSRC_Human_Optimized_Template_216: 2678175253584707443
+      PSRC_Human_Optimized_Template_217: 326279493548515853
+      PSRC_Human_Optimized_Template_218: -8614683087603169188
+      PSRC_Human_Optimized_Template_219: -7648425099832932345
+      PSRC_Human_Optimized_Template_22: -5432486901019754419
+      PSRC_Human_Optimized_Template_220: -947991238984758733
+      PSRC_Human_Optimized_Template_221: -5020338890256968062
+      PSRC_Human_Optimized_Template_222: -9128695459380989432
+      PSRC_Human_Optimized_Template_223: -3980515906885785853
+      PSRC_Human_Optimized_Template_23: -4065537272508586821
+      PSRC_Human_Optimized_Template_24: -8433694230896185120
+      PSRC_Human_Optimized_Template_25: 6929835593591853636
+      PSRC_Human_Optimized_Template_26: -3491949970307734952
+      PSRC_Human_Optimized_Template_27: 603195545235438015
+      PSRC_Human_Optimized_Template_28: 7686610083334795506
+      PSRC_Human_Optimized_Template_29: -8028984938510717894
+      PSRC_Human_Optimized_Template_3: -5821224768897830558
+      PSRC_Human_Optimized_Template_30: -7737764659492608743
+      PSRC_Human_Optimized_Template_31: 8404012114493744131
+      PSRC_Human_Optimized_Template_32: -6096281044900064523
+      PSRC_Human_Optimized_Template_33: -6186101466117197904
+      PSRC_Human_Optimized_Template_34: -937802122265167686
+      PSRC_Human_Optimized_Template_35: -8168793901191700391
+      PSRC_Human_Optimized_Template_36: 1239944833285506911
+      PSRC_Human_Optimized_Template_37: -4952161535334285997
+      PSRC_Human_Optimized_Template_38: -8241701058439040946
+      PSRC_Human_Optimized_Template_39: -5092738087165500592
+      PSRC_Human_Optimized_Template_4: 4556398824425215277
+      PSRC_Human_Optimized_Template_40: -5064456683347812403
+      PSRC_Human_Optimized_Template_41: -4440754223400735660
+      PSRC_Human_Optimized_Template_42: -1053853224463369677
+      PSRC_Human_Optimized_Template_43: -2225181227060449798
+      PSRC_Human_Optimized_Template_44: -702601950079109976
+      PSRC_Human_Optimized_Template_45: 2124268996136991612
+      PSRC_Human_Optimized_Template_46: 8486336547468182511
+      PSRC_Human_Optimized_Template_47: -1527566621296874323
+      PSRC_Human_Optimized_Template_48: -1399114241172687680
+      PSRC_Human_Optimized_Template_49: -5676662241610992255
+      PSRC_Human_Optimized_Template_5: -2017581833051089792
+      PSRC_Human_Optimized_Template_50: -6250199312842441380
+      PSRC_Human_Optimized_Template_51: 6705011667407720304
+      PSRC_Human_Optimized_Template_52: -5987726896097898368
+      PSRC_Human_Optimized_Template_53: -4724024243158245105
+      PSRC_Human_Optimized_Template_54: 1094390034870874762
+      PSRC_Human_Optimized_Template_55: -3938775660011486300
+      PSRC_Human_Optimized_Template_56: -2945964144677125738
+      PSRC_Human_Optimized_Template_57: 5475620594054374928
+      PSRC_Human_Optimized_Template_58: -681428285827462604
+      PSRC_Human_Optimized_Template_59: 4879690328424805302
+      PSRC_Human_Optimized_Template_6: -5089059423753772223
+      PSRC_Human_Optimized_Template_60: -7670974780976560366
+      PSRC_Human_Optimized_Template_61: 3249388778391327707
+      PSRC_Human_Optimized_Template_62: 293746867976456012
+      PSRC_Human_Optimized_Template_63: 7298661521965501182
+      PSRC_Human_Optimized_Template_64: 7398708868262092164
+      PSRC_Human_Optimized_Template_65: -1531891379394653823
+      PSRC_Human_Optimized_Template_66: 848219684106104522
+      PSRC_Human_Optimized_Template_67: 9177429279143520405
+      PSRC_Human_Optimized_Template_68: -6683663581916945718
+      PSRC_Human_Optimized_Template_69: -6900051230759239211
+      PSRC_Human_Optimized_Template_7: 7257208354670252189
+      PSRC_Human_Optimized_Template_70: 6887167551498645234
+      PSRC_Human_Optimized_Template_71: 6260993760845502817
+      PSRC_Human_Optimized_Template_72: -8283980672957173161
+      PSRC_Human_Optimized_Template_73: -354940101256413738
+      PSRC_Human_Optimized_Template_74: -381610600387867985
+      PSRC_Human_Optimized_Template_75: -7563617808526879126
+      PSRC_Human_Optimized_Template_76: -5834049976452098559
+      PSRC_Human_Optimized_Template_77: 4146489666683523323
+      PSRC_Human_Optimized_Template_78: -7417637418388794386
+      PSRC_Human_Optimized_Template_79: -6368765321491370110
+      PSRC_Human_Optimized_Template_8: 6723330706691560290
+      PSRC_Human_Optimized_Template_80: 6144468357816623031
+      PSRC_Human_Optimized_Template_81: -5545236585236746002
+      PSRC_Human_Optimized_Template_82: -5082539134466624528
+      PSRC_Human_Optimized_Template_83: 5085444808177512677
+      PSRC_Human_Optimized_Template_84: -1248765872910016394
+      PSRC_Human_Optimized_Template_85: -1082154687753112325
+      PSRC_Human_Optimized_Template_86: -4329558840481663394
+      PSRC_Human_Optimized_Template_87: 8117952313515875165
+      PSRC_Human_Optimized_Template_88: 6252907787608014353
+      PSRC_Human_Optimized_Template_89: -5349169716674704862
+      PSRC_Human_Optimized_Template_9: 725033722309232497
+      PSRC_Human_Optimized_Template_90: 2507793622361168745
+      PSRC_Human_Optimized_Template_91: 9047489725705194551
+      PSRC_Human_Optimized_Template_92: -5708989836765443354
+      PSRC_Human_Optimized_Template_93: 3389490054870672136
+      PSRC_Human_Optimized_Template_94: -3358425066950353566
+      PSRC_Human_Optimized_Template_95: -961888931045071811
+      PSRC_Human_Optimized_Template_96: -4782521575812848272
+      PSRC_Human_Optimized_Template_97: -1473462668572627516
+      PSRC_Human_Optimized_Template_98: -6771504487256581749
+      PSRC_Human_Optimized_Template_99: -8233588647130787512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

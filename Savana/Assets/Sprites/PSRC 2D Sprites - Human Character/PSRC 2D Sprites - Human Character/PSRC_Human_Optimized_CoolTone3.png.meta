@@ -1,0 +1,5954 @@
+fileFormatVersion: 2
+guid: c0e47fe664b4a0b43ba8a22f36f02844
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7273416361260845144
+    second: PSRC_Human_Optimized_CoolTone3_0
+  - first:
+      213: -1290792163874738567
+    second: PSRC_Human_Optimized_CoolTone3_1
+  - first:
+      213: 352220455068946700
+    second: PSRC_Human_Optimized_CoolTone3_2
+  - first:
+      213: -5983862047114629046
+    second: PSRC_Human_Optimized_CoolTone3_3
+  - first:
+      213: -2531264491348668643
+    second: PSRC_Human_Optimized_CoolTone3_4
+  - first:
+      213: 1320279319560756770
+    second: PSRC_Human_Optimized_CoolTone3_5
+  - first:
+      213: -1688248925209609958
+    second: PSRC_Human_Optimized_CoolTone3_6
+  - first:
+      213: 6446141333656456976
+    second: PSRC_Human_Optimized_CoolTone3_7
+  - first:
+      213: -6912947108780930292
+    second: PSRC_Human_Optimized_CoolTone3_8
+  - first:
+      213: -824303425251462781
+    second: PSRC_Human_Optimized_CoolTone3_9
+  - first:
+      213: -5410593071658262415
+    second: PSRC_Human_Optimized_CoolTone3_10
+  - first:
+      213: 6570035733708476709
+    second: PSRC_Human_Optimized_CoolTone3_11
+  - first:
+      213: 5942595339293899289
+    second: PSRC_Human_Optimized_CoolTone3_12
+  - first:
+      213: 8407235609825677136
+    second: PSRC_Human_Optimized_CoolTone3_13
+  - first:
+      213: -8907791155923250969
+    second: PSRC_Human_Optimized_CoolTone3_14
+  - first:
+      213: -1398158207664701389
+    second: PSRC_Human_Optimized_CoolTone3_15
+  - first:
+      213: 7478264647300300188
+    second: PSRC_Human_Optimized_CoolTone3_16
+  - first:
+      213: -5815180899746564971
+    second: PSRC_Human_Optimized_CoolTone3_17
+  - first:
+      213: 7549345218567818699
+    second: PSRC_Human_Optimized_CoolTone3_18
+  - first:
+      213: 873721533124348552
+    second: PSRC_Human_Optimized_CoolTone3_19
+  - first:
+      213: -8723445248301406802
+    second: PSRC_Human_Optimized_CoolTone3_20
+  - first:
+      213: -1307479576238400570
+    second: PSRC_Human_Optimized_CoolTone3_21
+  - first:
+      213: -9089271594272337735
+    second: PSRC_Human_Optimized_CoolTone3_22
+  - first:
+      213: -343060273557313213
+    second: PSRC_Human_Optimized_CoolTone3_23
+  - first:
+      213: -5508822536755202121
+    second: PSRC_Human_Optimized_CoolTone3_24
+  - first:
+      213: 5224384299342341035
+    second: PSRC_Human_Optimized_CoolTone3_25
+  - first:
+      213: 6735225641183130919
+    second: PSRC_Human_Optimized_CoolTone3_26
+  - first:
+      213: -2673133217969991481
+    second: PSRC_Human_Optimized_CoolTone3_27
+  - first:
+      213: -7578131228141700381
+    second: PSRC_Human_Optimized_CoolTone3_28
+  - first:
+      213: 4714750244632164134
+    second: PSRC_Human_Optimized_CoolTone3_29
+  - first:
+      213: 4339407485087794633
+    second: PSRC_Human_Optimized_CoolTone3_30
+  - first:
+      213: 8799902846980082606
+    second: PSRC_Human_Optimized_CoolTone3_31
+  - first:
+      213: -4609717175856125251
+    second: PSRC_Human_Optimized_CoolTone3_32
+  - first:
+      213: -9030199344584595209
+    second: PSRC_Human_Optimized_CoolTone3_33
+  - first:
+      213: -6477790740140793924
+    second: PSRC_Human_Optimized_CoolTone3_34
+  - first:
+      213: -6336212350147531175
+    second: PSRC_Human_Optimized_CoolTone3_35
+  - first:
+      213: 544298451097984476
+    second: PSRC_Human_Optimized_CoolTone3_36
+  - first:
+      213: 2585534871405956572
+    second: PSRC_Human_Optimized_CoolTone3_37
+  - first:
+      213: -2254076334865903228
+    second: PSRC_Human_Optimized_CoolTone3_38
+  - first:
+      213: -5354490848493479341
+    second: PSRC_Human_Optimized_CoolTone3_39
+  - first:
+      213: -7646543995560636162
+    second: PSRC_Human_Optimized_CoolTone3_40
+  - first:
+      213: 7360252938563788303
+    second: PSRC_Human_Optimized_CoolTone3_41
+  - first:
+      213: 4209815249591779434
+    second: PSRC_Human_Optimized_CoolTone3_42
+  - first:
+      213: -7291863799235123638
+    second: PSRC_Human_Optimized_CoolTone3_43
+  - first:
+      213: 8258552085619217025
+    second: PSRC_Human_Optimized_CoolTone3_44
+  - first:
+      213: 5848355942000628692
+    second: PSRC_Human_Optimized_CoolTone3_45
+  - first:
+      213: -7191984649452014291
+    second: PSRC_Human_Optimized_CoolTone3_46
+  - first:
+      213: -3056018630444202565
+    second: PSRC_Human_Optimized_CoolTone3_47
+  - first:
+      213: 5031298278716224546
+    second: PSRC_Human_Optimized_CoolTone3_48
+  - first:
+      213: -278099312231063628
+    second: PSRC_Human_Optimized_CoolTone3_49
+  - first:
+      213: 4503441514600351930
+    second: PSRC_Human_Optimized_CoolTone3_50
+  - first:
+      213: 254667929955143011
+    second: PSRC_Human_Optimized_CoolTone3_51
+  - first:
+      213: -2921963083298990706
+    second: PSRC_Human_Optimized_CoolTone3_52
+  - first:
+      213: 1158799505533450841
+    second: PSRC_Human_Optimized_CoolTone3_53
+  - first:
+      213: -433207938392339176
+    second: PSRC_Human_Optimized_CoolTone3_54
+  - first:
+      213: -2189621525215623411
+    second: PSRC_Human_Optimized_CoolTone3_55
+  - first:
+      213: 2123712696078323376
+    second: PSRC_Human_Optimized_CoolTone3_56
+  - first:
+      213: -5790692748910904713
+    second: PSRC_Human_Optimized_CoolTone3_57
+  - first:
+      213: -4434853693283696296
+    second: PSRC_Human_Optimized_CoolTone3_58
+  - first:
+      213: 5532806435212620985
+    second: PSRC_Human_Optimized_CoolTone3_59
+  - first:
+      213: 5103470203673323308
+    second: PSRC_Human_Optimized_CoolTone3_60
+  - first:
+      213: -8108335620790735203
+    second: PSRC_Human_Optimized_CoolTone3_61
+  - first:
+      213: 1818536163799728566
+    second: PSRC_Human_Optimized_CoolTone3_62
+  - first:
+      213: -210580240729332967
+    second: PSRC_Human_Optimized_CoolTone3_63
+  - first:
+      213: -347012323270883447
+    second: PSRC_Human_Optimized_CoolTone3_64
+  - first:
+      213: -2232853646730485111
+    second: PSRC_Human_Optimized_CoolTone3_65
+  - first:
+      213: 6040723184199280371
+    second: PSRC_Human_Optimized_CoolTone3_66
+  - first:
+      213: 828171677127439565
+    second: PSRC_Human_Optimized_CoolTone3_67
+  - first:
+      213: 1527976534472477302
+    second: PSRC_Human_Optimized_CoolTone3_68
+  - first:
+      213: -5336795889957702338
+    second: PSRC_Human_Optimized_CoolTone3_69
+  - first:
+      213: -4565285742780575607
+    second: PSRC_Human_Optimized_CoolTone3_70
+  - first:
+      213: 1958479608845349857
+    second: PSRC_Human_Optimized_CoolTone3_71
+  - first:
+      213: 501442557782474775
+    second: PSRC_Human_Optimized_CoolTone3_72
+  - first:
+      213: 6567435452672397605
+    second: PSRC_Human_Optimized_CoolTone3_73
+  - first:
+      213: 3726100989256227945
+    second: PSRC_Human_Optimized_CoolTone3_74
+  - first:
+      213: -3166920908435491937
+    second: PSRC_Human_Optimized_CoolTone3_75
+  - first:
+      213: -5802401652390624555
+    second: PSRC_Human_Optimized_CoolTone3_76
+  - first:
+      213: -7895183163097565892
+    second: PSRC_Human_Optimized_CoolTone3_77
+  - first:
+      213: -7920052887308028311
+    second: PSRC_Human_Optimized_CoolTone3_78
+  - first:
+      213: -4829690572635647467
+    second: PSRC_Human_Optimized_CoolTone3_79
+  - first:
+      213: 1700536440819148834
+    second: PSRC_Human_Optimized_CoolTone3_80
+  - first:
+      213: 2970979933048242585
+    second: PSRC_Human_Optimized_CoolTone3_81
+  - first:
+      213: 15710852683980035
+    second: PSRC_Human_Optimized_CoolTone3_82
+  - first:
+      213: -4767595871271554083
+    second: PSRC_Human_Optimized_CoolTone3_83
+  - first:
+      213: 4416898790270397813
+    second: PSRC_Human_Optimized_CoolTone3_84
+  - first:
+      213: 6753250695478648054
+    second: PSRC_Human_Optimized_CoolTone3_85
+  - first:
+      213: 8070682265398322899
+    second: PSRC_Human_Optimized_CoolTone3_86
+  - first:
+      213: -8440326068201662529
+    second: PSRC_Human_Optimized_CoolTone3_87
+  - first:
+      213: 2901329219012368091
+    second: PSRC_Human_Optimized_CoolTone3_88
+  - first:
+      213: 3658610107203330619
+    second: PSRC_Human_Optimized_CoolTone3_89
+  - first:
+      213: -5300034706469156221
+    second: PSRC_Human_Optimized_CoolTone3_90
+  - first:
+      213: -482220429145124207
+    second: PSRC_Human_Optimized_CoolTone3_91
+  - first:
+      213: -4055744575521792566
+    second: PSRC_Human_Optimized_CoolTone3_92
+  - first:
+      213: 1728992137341966091
+    second: PSRC_Human_Optimized_CoolTone3_93
+  - first:
+      213: 4644702397481058209
+    second: PSRC_Human_Optimized_CoolTone3_94
+  - first:
+      213: -3602361928521312029
+    second: PSRC_Human_Optimized_CoolTone3_95
+  - first:
+      213: 1195019852833893262
+    second: PSRC_Human_Optimized_CoolTone3_96
+  - first:
+      213: 1388306100226195064
+    second: PSRC_Human_Optimized_CoolTone3_97
+  - first:
+      213: 7957818134623389111
+    second: PSRC_Human_Optimized_CoolTone3_98
+  - first:
+      213: -6071849624352781169
+    second: PSRC_Human_Optimized_CoolTone3_99
+  - first:
+      213: -3739348235093232361
+    second: PSRC_Human_Optimized_CoolTone3_100
+  - first:
+      213: 1771442532133812257
+    second: PSRC_Human_Optimized_CoolTone3_101
+  - first:
+      213: 7724727064919455367
+    second: PSRC_Human_Optimized_CoolTone3_102
+  - first:
+      213: -8500429522826835626
+    second: PSRC_Human_Optimized_CoolTone3_103
+  - first:
+      213: -5592238163719871696
+    second: PSRC_Human_Optimized_CoolTone3_104
+  - first:
+      213: -1719612144199070721
+    second: PSRC_Human_Optimized_CoolTone3_105
+  - first:
+      213: 1896253823578066860
+    second: PSRC_Human_Optimized_CoolTone3_106
+  - first:
+      213: -5860059772839371983
+    second: PSRC_Human_Optimized_CoolTone3_107
+  - first:
+      213: 3033577898176961583
+    second: PSRC_Human_Optimized_CoolTone3_108
+  - first:
+      213: 7774429555700043487
+    second: PSRC_Human_Optimized_CoolTone3_109
+  - first:
+      213: -827223071139962898
+    second: PSRC_Human_Optimized_CoolTone3_110
+  - first:
+      213: -559356664647081249
+    second: PSRC_Human_Optimized_CoolTone3_111
+  - first:
+      213: -4892433878365121839
+    second: PSRC_Human_Optimized_CoolTone3_112
+  - first:
+      213: 3362157849438632170
+    second: PSRC_Human_Optimized_CoolTone3_113
+  - first:
+      213: 4730304740230499213
+    second: PSRC_Human_Optimized_CoolTone3_114
+  - first:
+      213: -2648606662465903436
+    second: PSRC_Human_Optimized_CoolTone3_115
+  - first:
+      213: 8209647294512454029
+    second: PSRC_Human_Optimized_CoolTone3_116
+  - first:
+      213: -5204256182225973495
+    second: PSRC_Human_Optimized_CoolTone3_117
+  - first:
+      213: -3647754581698101343
+    second: PSRC_Human_Optimized_CoolTone3_118
+  - first:
+      213: -2578389940700399590
+    second: PSRC_Human_Optimized_CoolTone3_119
+  - first:
+      213: 7764713244243370516
+    second: PSRC_Human_Optimized_CoolTone3_120
+  - first:
+      213: -1688103392644825081
+    second: PSRC_Human_Optimized_CoolTone3_121
+  - first:
+      213: 1733261160644453897
+    second: PSRC_Human_Optimized_CoolTone3_122
+  - first:
+      213: -1062584838720922741
+    second: PSRC_Human_Optimized_CoolTone3_123
+  - first:
+      213: 7525851220116891001
+    second: PSRC_Human_Optimized_CoolTone3_124
+  - first:
+      213: -1952879876652977508
+    second: PSRC_Human_Optimized_CoolTone3_125
+  - first:
+      213: -2773248038234074183
+    second: PSRC_Human_Optimized_CoolTone3_126
+  - first:
+      213: -4643871271748238577
+    second: PSRC_Human_Optimized_CoolTone3_127
+  - first:
+      213: -9002584869323600985
+    second: PSRC_Human_Optimized_CoolTone3_128
+  - first:
+      213: -7004825602033084990
+    second: PSRC_Human_Optimized_CoolTone3_129
+  - first:
+      213: -2903566485624051229
+    second: PSRC_Human_Optimized_CoolTone3_130
+  - first:
+      213: 4167536601021655224
+    second: PSRC_Human_Optimized_CoolTone3_131
+  - first:
+      213: -5352349727334735544
+    second: PSRC_Human_Optimized_CoolTone3_132
+  - first:
+      213: 6587817224207794591
+    second: PSRC_Human_Optimized_CoolTone3_133
+  - first:
+      213: -2982686302796401464
+    second: PSRC_Human_Optimized_CoolTone3_134
+  - first:
+      213: 468998491154823646
+    second: PSRC_Human_Optimized_CoolTone3_135
+  - first:
+      213: -8795638080618274926
+    second: PSRC_Human_Optimized_CoolTone3_136
+  - first:
+      213: 1726279768643155522
+    second: PSRC_Human_Optimized_CoolTone3_137
+  - first:
+      213: -6105427469995394683
+    second: PSRC_Human_Optimized_CoolTone3_138
+  - first:
+      213: -2222776050777327088
+    second: PSRC_Human_Optimized_CoolTone3_139
+  - first:
+      213: -450192419708452246
+    second: PSRC_Human_Optimized_CoolTone3_140
+  - first:
+      213: 2115342083676401310
+    second: PSRC_Human_Optimized_CoolTone3_141
+  - first:
+      213: -4455410676863163963
+    second: PSRC_Human_Optimized_CoolTone3_142
+  - first:
+      213: 6606869651474451408
+    second: PSRC_Human_Optimized_CoolTone3_143
+  - first:
+      213: 1241843435729643061
+    second: PSRC_Human_Optimized_CoolTone3_144
+  - first:
+      213: 8216767707320552912
+    second: PSRC_Human_Optimized_CoolTone3_145
+  - first:
+      213: -4497876102383123158
+    second: PSRC_Human_Optimized_CoolTone3_146
+  - first:
+      213: -4425062277112026580
+    second: PSRC_Human_Optimized_CoolTone3_147
+  - first:
+      213: -5838604324806791867
+    second: PSRC_Human_Optimized_CoolTone3_148
+  - first:
+      213: 2918801591973490994
+    second: PSRC_Human_Optimized_CoolTone3_149
+  - first:
+      213: 4647556882024693829
+    second: PSRC_Human_Optimized_CoolTone3_150
+  - first:
+      213: -8842147938001759602
+    second: PSRC_Human_Optimized_CoolTone3_151
+  - first:
+      213: -6787457947537945291
+    second: PSRC_Human_Optimized_CoolTone3_152
+  - first:
+      213: -4189164159517128185
+    second: PSRC_Human_Optimized_CoolTone3_153
+  - first:
+      213: 6831847802901156890
+    second: PSRC_Human_Optimized_CoolTone3_154
+  - first:
+      213: 1724942189340878075
+    second: PSRC_Human_Optimized_CoolTone3_155
+  - first:
+      213: -1142585762600136124
+    second: PSRC_Human_Optimized_CoolTone3_156
+  - first:
+      213: -5546576184833968605
+    second: PSRC_Human_Optimized_CoolTone3_157
+  - first:
+      213: -5743901692691716432
+    second: PSRC_Human_Optimized_CoolTone3_158
+  - first:
+      213: 8332414986097091444
+    second: PSRC_Human_Optimized_CoolTone3_159
+  - first:
+      213: 5646097403320263516
+    second: PSRC_Human_Optimized_CoolTone3_160
+  - first:
+      213: 6042946422604244231
+    second: PSRC_Human_Optimized_CoolTone3_161
+  - first:
+      213: 809426724803832542
+    second: PSRC_Human_Optimized_CoolTone3_162
+  - first:
+      213: 4255863591798688194
+    second: PSRC_Human_Optimized_CoolTone3_163
+  - first:
+      213: 6341037022493381240
+    second: PSRC_Human_Optimized_CoolTone3_164
+  - first:
+      213: -5738623695773791650
+    second: PSRC_Human_Optimized_CoolTone3_165
+  - first:
+      213: 6228990271023109030
+    second: PSRC_Human_Optimized_CoolTone3_166
+  - first:
+      213: -7248810362522360867
+    second: PSRC_Human_Optimized_CoolTone3_167
+  - first:
+      213: -2897882702801474070
+    second: PSRC_Human_Optimized_CoolTone3_168
+  - first:
+      213: -367367691452744121
+    second: PSRC_Human_Optimized_CoolTone3_169
+  - first:
+      213: 87358754361031259
+    second: PSRC_Human_Optimized_CoolTone3_170
+  - first:
+      213: -7763006885805860580
+    second: PSRC_Human_Optimized_CoolTone3_171
+  - first:
+      213: -9082226105708876228
+    second: PSRC_Human_Optimized_CoolTone3_172
+  - first:
+      213: 7841628810827636773
+    second: PSRC_Human_Optimized_CoolTone3_173
+  - first:
+      213: -7012868208013794127
+    second: PSRC_Human_Optimized_CoolTone3_174
+  - first:
+      213: 7600357576274018327
+    second: PSRC_Human_Optimized_CoolTone3_175
+  - first:
+      213: 6380413351428170620
+    second: PSRC_Human_Optimized_CoolTone3_176
+  - first:
+      213: 3355219554391291537
+    second: PSRC_Human_Optimized_CoolTone3_177
+  - first:
+      213: 6901318369949158093
+    second: PSRC_Human_Optimized_CoolTone3_178
+  - first:
+      213: 7654686582578854454
+    second: PSRC_Human_Optimized_CoolTone3_179
+  - first:
+      213: 4539006692565508293
+    second: PSRC_Human_Optimized_CoolTone3_180
+  - first:
+      213: 5042817503821310525
+    second: PSRC_Human_Optimized_CoolTone3_181
+  - first:
+      213: 5786645806989393135
+    second: PSRC_Human_Optimized_CoolTone3_182
+  - first:
+      213: -1309467568439046365
+    second: PSRC_Human_Optimized_CoolTone3_183
+  - first:
+      213: 6902905760987219948
+    second: PSRC_Human_Optimized_CoolTone3_184
+  - first:
+      213: 712718435119527213
+    second: PSRC_Human_Optimized_CoolTone3_185
+  - first:
+      213: 8179236102166676238
+    second: PSRC_Human_Optimized_CoolTone3_186
+  - first:
+      213: -7335670793604421877
+    second: PSRC_Human_Optimized_CoolTone3_187
+  - first:
+      213: 7436082569272183200
+    second: PSRC_Human_Optimized_CoolTone3_188
+  - first:
+      213: -1266406837745815369
+    second: PSRC_Human_Optimized_CoolTone3_189
+  - first:
+      213: 28471964218675953
+    second: PSRC_Human_Optimized_CoolTone3_190
+  - first:
+      213: 6885827558236616333
+    second: PSRC_Human_Optimized_CoolTone3_191
+  - first:
+      213: -6795980735954541168
+    second: PSRC_Human_Optimized_CoolTone3_192
+  - first:
+      213: 3113796688481912208
+    second: PSRC_Human_Optimized_CoolTone3_193
+  - first:
+      213: 2112893743398315567
+    second: PSRC_Human_Optimized_CoolTone3_194
+  - first:
+      213: -1625333888199510391
+    second: PSRC_Human_Optimized_CoolTone3_195
+  - first:
+      213: 7924808739379054038
+    second: PSRC_Human_Optimized_CoolTone3_196
+  - first:
+      213: -7985558622007393434
+    second: PSRC_Human_Optimized_CoolTone3_197
+  - first:
+      213: 5720612664147139249
+    second: PSRC_Human_Optimized_CoolTone3_198
+  - first:
+      213: 6336296551049464188
+    second: PSRC_Human_Optimized_CoolTone3_199
+  - first:
+      213: -440808068662177179
+    second: PSRC_Human_Optimized_CoolTone3_200
+  - first:
+      213: -9214060039139934555
+    second: PSRC_Human_Optimized_CoolTone3_201
+  - first:
+      213: -2974457176099967335
+    second: PSRC_Human_Optimized_CoolTone3_202
+  - first:
+      213: 1272269008781624644
+    second: PSRC_Human_Optimized_CoolTone3_203
+  - first:
+      213: 7705408565948787769
+    second: PSRC_Human_Optimized_CoolTone3_204
+  - first:
+      213: -3662176871872656551
+    second: PSRC_Human_Optimized_CoolTone3_205
+  - first:
+      213: 8859796925310393186
+    second: PSRC_Human_Optimized_CoolTone3_206
+  - first:
+      213: 7847279699903171313
+    second: PSRC_Human_Optimized_CoolTone3_207
+  - first:
+      213: 8756394532893455110
+    second: PSRC_Human_Optimized_CoolTone3_208
+  - first:
+      213: 6061507921277848243
+    second: PSRC_Human_Optimized_CoolTone3_209
+  - first:
+      213: -2256016871842136697
+    second: PSRC_Human_Optimized_CoolTone3_210
+  - first:
+      213: 3674048936906968574
+    second: PSRC_Human_Optimized_CoolTone3_211
+  - first:
+      213: 8586152782074971919
+    second: PSRC_Human_Optimized_CoolTone3_212
+  - first:
+      213: 2730100673207927204
+    second: PSRC_Human_Optimized_CoolTone3_213
+  - first:
+      213: 8589798984245551289
+    second: PSRC_Human_Optimized_CoolTone3_214
+  - first:
+      213: 2571461613456660768
+    second: PSRC_Human_Optimized_CoolTone3_215
+  - first:
+      213: 4223935064521978954
+    second: PSRC_Human_Optimized_CoolTone3_216
+  - first:
+      213: 4452254297704202627
+    second: PSRC_Human_Optimized_CoolTone3_217
+  - first:
+      213: 4993559895054281098
+    second: PSRC_Human_Optimized_CoolTone3_218
+  - first:
+      213: 1468220499839479508
+    second: PSRC_Human_Optimized_CoolTone3_219
+  - first:
+      213: -667596132901184335
+    second: PSRC_Human_Optimized_CoolTone3_220
+  - first:
+      213: -3597603332743295695
+    second: PSRC_Human_Optimized_CoolTone3_221
+  - first:
+      213: -6244387532191178747
+    second: PSRC_Human_Optimized_CoolTone3_222
+  - first:
+      213: -4552882703049410605
+    second: PSRC_Human_Optimized_CoolTone3_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7788b0b52af0b90800000000000000
+      internalID: -7273416361260845144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6369ad5f261ee0800000000000000
+      internalID: -1290792163874738567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d20343a653e400800000000000000
+      internalID: 352220455068946700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a407ac80c2d05fca0800000000000000
+      internalID: -5983862047114629046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4a983b542fdcd0800000000000000
+      internalID: -2531264491348668643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e96b6cb03925210800000000000000
+      internalID: 1320279319560756770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1932781c822298e0800000000000000
+      internalID: -1688248925209609958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f4e8cc36b457950800000000000000
+      internalID: 6446141333656456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b8c0e1b374010a0800000000000000
+      internalID: -6912947108780930292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381bfbee66c7f84f0800000000000000
+      internalID: -824303425251462781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ae939446b9e4b0800000000000000
+      internalID: -5410593071658262415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5211155b0b47d2b50800000000000000
+      internalID: 6570035733708476709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3182d9f6587250800000000000000
+      internalID: 5942595339293899289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f8ca26e308ca470800000000000000
+      internalID: 8407235609825677136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e014d1a32b216480800000000000000
+      internalID: -8907791155923250969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304954948eb89ce0800000000000000
+      internalID: -1398158207664701389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d32be331228c760800000000000000
+      internalID: 7478264647300300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59438f528c35c4fa0800000000000000
+      internalID: -5815180899746564971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd47876a79a4c860800000000000000
+      internalID: 7549345218567818699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8c7eea15102c00800000000000000
+      internalID: 873721533124348552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ec65f3c810f680800000000000000
+      internalID: -8723445248301406802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5b33b046eadde0800000000000000
+      internalID: -1307479576238400570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 225
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0595c54ab6cd180800000000000000
+      internalID: -9089271594272337735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3496112bf743d3bf0800000000000000
+      internalID: -343060273557313213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73a0ef61bbc83b0800000000000000
+      internalID: -5508822536755202121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ad6c17ddb08840800000000000000
+      internalID: 5224384299342341035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725b2d03904587d50800000000000000
+      internalID: 6735225641183130919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c01a99408f17ead0800000000000000
+      internalID: -2673133217969991481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eab1557cc115d690800000000000000
+      internalID: -7578131228141700381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277cff1e582e6140800000000000000
+      internalID: 4714750244632164134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54454dd1ca83c30800000000000000
+      internalID: 4339407485087794633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab4234f3098f1a70800000000000000
+      internalID: 8799902846980082606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba2412e6aef600c0800000000000000
+      internalID: -4609717175856125251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e1174a894ea280800000000000000
+      internalID: -9030199344584595209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 207
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd79484a34a16a0800000000000000
+      internalID: -6477790740140793924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e630030704118a0800000000000000
+      internalID: -6336212350147531175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd9d75be8cbd8700800000000000000
+      internalID: 544298451097984476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd898c444aa1e320800000000000000
+      internalID: 2585534871405956572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48114bb1489e7b0e0800000000000000
+      internalID: -2254076334865903228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a577e41f601b5b0800000000000000
+      internalID: -5354490848493479341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05639cfb402e590800000000000000
+      internalID: -7646543995560636162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9e142d0fd42660800000000000000
+      internalID: 7360252938563788303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c0f93aa44c6a30800000000000000
+      internalID: 4209815249591779434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466f0032881eca90800000000000000
+      internalID: -7291863799235123638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 208
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182156ebd554c9270800000000000000
+      internalID: 8258552085619217025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d31efa4eb8892150800000000000000
+      internalID: 5848355942000628692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b95be010f03c90800000000000000
+      internalID: -7191984649452014291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5c5614f37d695d0800000000000000
+      internalID: -3056018630444202565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2243ae5a023c2d540800000000000000
+      internalID: 5031298278716224546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfdf22262ef32cf0800000000000000
+      internalID: -278099312231063628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8408082307f7e30800000000000000
+      internalID: 4503441514600351930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d09ac0223c88300800000000000000
+      internalID: 254667929955143011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8598259e0a1377d0800000000000000
+      internalID: -2921963083298990706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a383db202e41010800000000000000
+      internalID: 1158799505533450841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dce3edcafecf9f0800000000000000
+      internalID: -433207938392339176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0749fce2d6ec91e0800000000000000
+      internalID: -2189621525215623411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4cb6f171f87d10800000000000000
+      internalID: 2123712696078323376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a3cb110a353afa0800000000000000
+      internalID: -5790692748910904713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8510ff4101c3472c0800000000000000
+      internalID: -4434853693283696296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f7d5832a78cc40800000000000000
+      internalID: 5532806435212620985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272db36c1b23d640800000000000000
+      internalID: 5103470203673323308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2f1376b7697f80800000000000000
+      internalID: -8108335620790735203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10c76810dbc3910800000000000000
+      internalID: 1818536163799728566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ac92036ed31df0800000000000000
+      internalID: -210580240729332967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98781ca612a2f2bf0800000000000000
+      internalID: -347012323270883447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a13f307f4301e0800000000000000
+      internalID: -2232853646730485111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62aac1bb5f4d350800000000000000
+      internalID: 6040723184199280371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc47834a0c14e7b00800000000000000
+      internalID: 828171677127439565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a4d520096743510800000000000000
+      internalID: 1527976534472477302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357e44e964efe5b0800000000000000
+      internalID: -5336795889957702338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980986b0ec8d4a0c0800000000000000
+      internalID: -4565285742780575607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b219e3daed2b10800000000000000
+      internalID: 1958479608845349857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71043eb795b75f600800000000000000
+      internalID: 501442557782474775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52158d99fb7342b50800000000000000
+      internalID: 6567435452672397605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c59d5ab15c5b330800000000000000
+      internalID: 3726100989256227945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_75
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f1fc7636dc04d0800000000000000
+      internalID: -3166920908435491937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20e19807ab97fa0800000000000000
+      internalID: -5802401652390624555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35bcee5ebcae6290800000000000000
+      internalID: -7895183163097565892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b2b97cd1561290800000000000000
+      internalID: -7920052887308028311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512dff2530e79fcb0800000000000000
+      internalID: -4829690572635647467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e1a212e4899710800000000000000
+      internalID: 1700536440819148834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918728128a0b3920800000000000000
+      internalID: 2970979933048242585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd851ffe0d73000800000000000000
+      internalID: 15710852683980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37d3c90d816ddb0800000000000000
+      internalID: -4767595871271554083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d6bea4c0afb4d30800000000000000
+      internalID: 4416898790270397813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 146
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc1a2f2abd58bd50800000000000000
+      internalID: 6753250695478648054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 146
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ac1492c2d00070800000000000000
+      internalID: 8070682265398322899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7de54e820fdda80800000000000000
+      internalID: -8440326068201662529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd691b38d87934820800000000000000
+      internalID: 2901329219012368091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322283228ef5c230800000000000000
+      internalID: 3658610107203330619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0aa7e38e7276b0800000000000000
+      internalID: -5300034706469156221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925e59131fce49f0800000000000000
+      internalID: -482220429145124207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5e4cfbc917b7c0800000000000000
+      internalID: -4055744575521792566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0716b5303d9ef710800000000000000
+      internalID: 1728992137341966091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af7349c83c457040800000000000000
+      internalID: 4644702397481058209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8981289e6d10ec0800000000000000
+      internalID: -3602361928521312029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b24b38930959010800000000000000
+      internalID: 1195019852833893262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7d77ea01444310800000000000000
+      internalID: 1388306100226195064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_98
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5836d5e69df6e60800000000000000
+      internalID: 7957818134623389111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c0ddacfe47cbba0800000000000000
+      internalID: -6071849624352781169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b8c3979a2b1cc0800000000000000
+      internalID: -3739348235093232361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128bad3f89d659810800000000000000
+      internalID: 1771442532133812257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786be53965eb33b60800000000000000
+      internalID: 7724727064919455367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c9add268680a80800000000000000
+      internalID: -8500429522826835626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332810e4016462b0800000000000000
+      internalID: -5592238163719871696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0191add5b228e0800000000000000
+      internalID: -1719612144199070721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 115
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc8564ec8d05a10800000000000000
+      internalID: 1896253823578066860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b5a5d3fa2ecaea0800000000000000
+      internalID: -5860059772839371983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c505b960f691a20800000000000000
+      internalID: 3033577898176961583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde8cce7d7254eb60800000000000000
+      internalID: 7774429555700043487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 84
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd1b6effc1584f0800000000000000
+      internalID: -827223071139962898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_111
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a6fcb314cc38f0800000000000000
+      internalID: -559356664647081249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2d5f01f459a1cb0800000000000000
+      internalID: -4892433878365121839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b49620c8c8ae20800000000000000
+      internalID: 3362157849438632170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_114
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b09c8591b65a140800000000000000
+      internalID: 4730304740230499213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_115
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4acfdf5424e3bd0800000000000000
+      internalID: -2648606662465903436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8959a0c7b68ee170800000000000000
+      internalID: 8209647294512454029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_117
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4a4a5394c6c7b0800000000000000
+      internalID: -5204256182225973495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb41ad882906dc0800000000000000
+      internalID: -3647754581698101343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18bc148208b73cd0800000000000000
+      internalID: -2578389940700399590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412a5e17e8dc1cb60800000000000000
+      internalID: 7764713244243370516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_121
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700064988e6a298e0800000000000000
+      internalID: -1688103392644825081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_122
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906a137a7d7cd0810800000000000000
+      internalID: 1733261160644453897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd25018b0f041f0800000000000000
+      internalID: -1062584838720922741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e18f9fc1317860800000000000000
+      internalID: 7525851220116891001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_125
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c923717591af5e4e0800000000000000
+      internalID: -1952879876652977508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3520f3a917389d0800000000000000
+      internalID: -2773248038234074183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f030ec0cea7ad8fb0800000000000000
+      internalID: -4643871271748238577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab09a352c4601380800000000000000
+      internalID: -9002584869323600985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_129
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c591456a3cd9ce90800000000000000
+      internalID: -7004825602033084990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_130
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e926a24aa574b7d0800000000000000
+      internalID: -2903566485624051229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8a554457016d930800000000000000
+      internalID: 4167536601021655224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_132
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ed8ce742a8b5b0800000000000000
+      internalID: -5352349727334735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910b169cd0ac6b50800000000000000
+      internalID: 6587817224207794591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b56d4c9e5b96d0800000000000000
+      internalID: -2982686302796401464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93a7194a7328600800000000000000
+      internalID: 468998491154823646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f59d754cd9fe580800000000000000
+      internalID: -8795638080618274926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2463be8ad4af4f710800000000000000
+      internalID: 1726279768643155522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893301601a254ba0800000000000000
+      internalID: -6105427469995394683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afb2665fc1721e0800000000000000
+      internalID: -2222776050777327088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_140
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6244b6216890c9f0800000000000000
+      internalID: -450192419708452246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e67f3ea643b5d10800000000000000
+      internalID: 2115342083676401310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a61d58933b22c0800000000000000
+      internalID: -4455410676863163963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db817d71f050bb50800000000000000
+      internalID: 6606869651474451408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e055760aeb3110800000000000000
+      internalID: 1241843435729643061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_145
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0ebc02b2d70270800000000000000
+      internalID: 8216767707320552912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254cb104855491c0800000000000000
+      internalID: -4497876102383123158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aa1cfcd450792c0800000000000000
+      internalID: -4425062277112026580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de4d30d4c19fea0800000000000000
+      internalID: -5838604324806791867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231bc6b559aa18820800000000000000
+      internalID: 2918801591973490994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54001824c507f7040800000000000000
+      internalID: 4647556882024693829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_151
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d3ff4c416a4580800000000000000
+      internalID: -8842147938001759602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_152
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d491d45fa1ec1a0800000000000000
+      internalID: -6787457947537945291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_153
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0f2e54691dd5c0800000000000000
+      internalID: -4189164159517128185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14d47b41699fce50800000000000000
+      internalID: 6831847802901156890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_155
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46fb538c930f710800000000000000
+      internalID: 1724942189340878075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442dcc67d48b420f0800000000000000
+      internalID: -1142585762600136124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_157
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326745fc85a9603b0800000000000000
+      internalID: -5546576184833968605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_158
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6685ec7df8940b0800000000000000
+      internalID: -5743901692691716432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_159
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736577684fa2a370800000000000000
+      internalID: 8332414986097091444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_160
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53e82c8ca7fa5e40800000000000000
+      internalID: 5646097403320263516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_161
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7052b0421cbdcd350800000000000000
+      internalID: 6042946422604244231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_162
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edae3a35159ab3b00800000000000000
+      internalID: 809426724803832542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9cda1636ddf0b30800000000000000
+      internalID: 4255863591798688194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_164
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87291516393eff750800000000000000
+      internalID: 6341037022493381240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_165
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a83c937205c50b0800000000000000
+      internalID: -5738623695773791650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_166
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a352bd16a1d17650800000000000000
+      internalID: 6228990271023109030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_167
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32fa1916d076b90800000000000000
+      internalID: -7248810362522360867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_168
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aede4c21907a8c7d0800000000000000
+      internalID: -2897882702801474070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ef001f709d6eaf0800000000000000
+      internalID: -367367691452744121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_170
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab5b1035c563100800000000000000
+      internalID: 87358754361031259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1951a61e52444490800000000000000
+      internalID: -7763006885805860580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e617ff97375f180800000000000000
+      internalID: -9082226105708876228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a9d15bdf03dc60800000000000000
+      internalID: 7841628810827636773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_174
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b425b445894dae90800000000000000
+      internalID: -7012868208013794127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_175
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 57
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71003cb72f4e97960800000000000000
+      internalID: 7600357576274018327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7329046328cb8850800000000000000
+      internalID: 6380413351428170620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ffe27862209e20800000000000000
+      internalID: 3355219554391291537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca82b22e7866cf50800000000000000
+      internalID: 6901318369949158093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_179
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63abf8df3e8ea3a60800000000000000
+      internalID: 7654686582578854454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_180
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ec77c98acdfe30800000000000000
+      internalID: 4539006692565508293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_181
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a246e3dcfabf540800000000000000
+      internalID: 5042817503821310525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3b96d3bb4e4050800000000000000
+      internalID: 5786645806989393135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_183
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fcb423f26d3dde0800000000000000
+      internalID: -1309467568439046365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce704a9673c0ccf50800000000000000
+      internalID: 6902905760987219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25fb2ef3a514e900800000000000000
+      internalID: 712718435119527213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0302b346eb728170800000000000000
+      internalID: 8179236102166676238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_187
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07200e7746723a90800000000000000
+      internalID: -7335670793604421877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_188
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a941fdd2b5423760800000000000000
+      internalID: 7436082569272183200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f807d0b1dc6ee0800000000000000
+      internalID: -1266406837745815369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_190
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2df41c917256000800000000000000
+      internalID: 28471964218675953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_191
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f9497eaf5f8f50800000000000000
+      internalID: 6885827558236616333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_192
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095280df683dfa1a0800000000000000
+      internalID: -6795980735954541168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09580cf279d663b20800000000000000
+      internalID: 3113796688481912208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e66f3aa1825d10800000000000000
+      internalID: 2112893743398315567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b678a077a179e0800000000000000
+      internalID: -1625333888199510391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_196
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5899f9f839afd60800000000000000
+      internalID: 7924808739379054038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_197
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663013a1eb89d2190800000000000000
+      internalID: -7985558622007393434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_198
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba5710b8e2b36f40800000000000000
+      internalID: 5720612664147139249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_199
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7906dc542c0fe750800000000000000
+      internalID: 6336296551049464188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_200
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d345a56fe1e9f0800000000000000
+      internalID: -440808068662177179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae31fb6635112080800000000000000
+      internalID: -9214060039139934555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e23fa25fa98b6d0800000000000000
+      internalID: -2974457176099967335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ca273ce108a110800000000000000
+      internalID: 1272269008781624644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_204
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c21a6044c1fea60800000000000000
+      internalID: 7705408565948787769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 28
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b016fb9855d2dc0800000000000000
+      internalID: -3662176871872656551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_206
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b5933cc5254fa70800000000000000
+      internalID: 8859796925310393186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_207
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faccd57f4327ec60800000000000000
+      internalID: 7847279699903171313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_208
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603794e2f66f48970800000000000000
+      internalID: 8756394532893455110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_209
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8bf2d65dce1450800000000000000
+      internalID: 6061507921277848243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dbf82ab9401b0e0800000000000000
+      internalID: -2256016871842136697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdcdbbca08dcf230800000000000000
+      internalID: 3674048936906968574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_212
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f078fc2c674282770800000000000000
+      internalID: 8586152782074971919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_213
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a10d9bf81443e520800000000000000
+      internalID: 2730100673207927204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a7fb5aa8153770800000000000000
+      internalID: 8589798984245551289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02913a796baafa320800000000000000
+      internalID: 2571461613456660768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_216
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a443623df8e6e9a30800000000000000
+      internalID: 4223935064521978954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_217
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3818d58d1b599cd30800000000000000
+      internalID: 4452254297704202627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_218
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e85d7440bc4540800000000000000
+      internalID: 4993559895054281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_219
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dee0e004ca206410800000000000000
+      internalID: 1468220499839479508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_220
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc100daad83cb6f0800000000000000
+      internalID: -667596132901184335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_221
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d031d64deb21ec0800000000000000
+      internalID: -3597603332743295695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_222
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500edd7af9a7759a0800000000000000
+      internalID: -6244387532191178747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_CoolTone3_223
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d738b4cd49e0d0c0800000000000000
+      internalID: -4552882703049410605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PSRC_Human_Optimized_CoolTone3_0: -7273416361260845144
+      PSRC_Human_Optimized_CoolTone3_1: -1290792163874738567
+      PSRC_Human_Optimized_CoolTone3_10: -5410593071658262415
+      PSRC_Human_Optimized_CoolTone3_100: -3739348235093232361
+      PSRC_Human_Optimized_CoolTone3_101: 1771442532133812257
+      PSRC_Human_Optimized_CoolTone3_102: 7724727064919455367
+      PSRC_Human_Optimized_CoolTone3_103: -8500429522826835626
+      PSRC_Human_Optimized_CoolTone3_104: -5592238163719871696
+      PSRC_Human_Optimized_CoolTone3_105: -1719612144199070721
+      PSRC_Human_Optimized_CoolTone3_106: 1896253823578066860
+      PSRC_Human_Optimized_CoolTone3_107: -5860059772839371983
+      PSRC_Human_Optimized_CoolTone3_108: 3033577898176961583
+      PSRC_Human_Optimized_CoolTone3_109: 7774429555700043487
+      PSRC_Human_Optimized_CoolTone3_11: 6570035733708476709
+      PSRC_Human_Optimized_CoolTone3_110: -827223071139962898
+      PSRC_Human_Optimized_CoolTone3_111: -559356664647081249
+      PSRC_Human_Optimized_CoolTone3_112: -4892433878365121839
+      PSRC_Human_Optimized_CoolTone3_113: 3362157849438632170
+      PSRC_Human_Optimized_CoolTone3_114: 4730304740230499213
+      PSRC_Human_Optimized_CoolTone3_115: -2648606662465903436
+      PSRC_Human_Optimized_CoolTone3_116: 8209647294512454029
+      PSRC_Human_Optimized_CoolTone3_117: -5204256182225973495
+      PSRC_Human_Optimized_CoolTone3_118: -3647754581698101343
+      PSRC_Human_Optimized_CoolTone3_119: -2578389940700399590
+      PSRC_Human_Optimized_CoolTone3_12: 5942595339293899289
+      PSRC_Human_Optimized_CoolTone3_120: 7764713244243370516
+      PSRC_Human_Optimized_CoolTone3_121: -1688103392644825081
+      PSRC_Human_Optimized_CoolTone3_122: 1733261160644453897
+      PSRC_Human_Optimized_CoolTone3_123: -1062584838720922741
+      PSRC_Human_Optimized_CoolTone3_124: 7525851220116891001
+      PSRC_Human_Optimized_CoolTone3_125: -1952879876652977508
+      PSRC_Human_Optimized_CoolTone3_126: -2773248038234074183
+      PSRC_Human_Optimized_CoolTone3_127: -4643871271748238577
+      PSRC_Human_Optimized_CoolTone3_128: -9002584869323600985
+      PSRC_Human_Optimized_CoolTone3_129: -7004825602033084990
+      PSRC_Human_Optimized_CoolTone3_13: 8407235609825677136
+      PSRC_Human_Optimized_CoolTone3_130: -2903566485624051229
+      PSRC_Human_Optimized_CoolTone3_131: 4167536601021655224
+      PSRC_Human_Optimized_CoolTone3_132: -5352349727334735544
+      PSRC_Human_Optimized_CoolTone3_133: 6587817224207794591
+      PSRC_Human_Optimized_CoolTone3_134: -2982686302796401464
+      PSRC_Human_Optimized_CoolTone3_135: 468998491154823646
+      PSRC_Human_Optimized_CoolTone3_136: -8795638080618274926
+      PSRC_Human_Optimized_CoolTone3_137: 1726279768643155522
+      PSRC_Human_Optimized_CoolTone3_138: -6105427469995394683
+      PSRC_Human_Optimized_CoolTone3_139: -2222776050777327088
+      PSRC_Human_Optimized_CoolTone3_14: -8907791155923250969
+      PSRC_Human_Optimized_CoolTone3_140: -450192419708452246
+      PSRC_Human_Optimized_CoolTone3_141: 2115342083676401310
+      PSRC_Human_Optimized_CoolTone3_142: -4455410676863163963
+      PSRC_Human_Optimized_CoolTone3_143: 6606869651474451408
+      PSRC_Human_Optimized_CoolTone3_144: 1241843435729643061
+      PSRC_Human_Optimized_CoolTone3_145: 8216767707320552912
+      PSRC_Human_Optimized_CoolTone3_146: -4497876102383123158
+      PSRC_Human_Optimized_CoolTone3_147: -4425062277112026580
+      PSRC_Human_Optimized_CoolTone3_148: -5838604324806791867
+      PSRC_Human_Optimized_CoolTone3_149: 2918801591973490994
+      PSRC_Human_Optimized_CoolTone3_15: -1398158207664701389
+      PSRC_Human_Optimized_CoolTone3_150: 4647556882024693829
+      PSRC_Human_Optimized_CoolTone3_151: -8842147938001759602
+      PSRC_Human_Optimized_CoolTone3_152: -6787457947537945291
+      PSRC_Human_Optimized_CoolTone3_153: -4189164159517128185
+      PSRC_Human_Optimized_CoolTone3_154: 6831847802901156890
+      PSRC_Human_Optimized_CoolTone3_155: 1724942189340878075
+      PSRC_Human_Optimized_CoolTone3_156: -1142585762600136124
+      PSRC_Human_Optimized_CoolTone3_157: -5546576184833968605
+      PSRC_Human_Optimized_CoolTone3_158: -5743901692691716432
+      PSRC_Human_Optimized_CoolTone3_159: 8332414986097091444
+      PSRC_Human_Optimized_CoolTone3_16: 7478264647300300188
+      PSRC_Human_Optimized_CoolTone3_160: 5646097403320263516
+      PSRC_Human_Optimized_CoolTone3_161: 6042946422604244231
+      PSRC_Human_Optimized_CoolTone3_162: 809426724803832542
+      PSRC_Human_Optimized_CoolTone3_163: 4255863591798688194
+      PSRC_Human_Optimized_CoolTone3_164: 6341037022493381240
+      PSRC_Human_Optimized_CoolTone3_165: -5738623695773791650
+      PSRC_Human_Optimized_CoolTone3_166: 6228990271023109030
+      PSRC_Human_Optimized_CoolTone3_167: -7248810362522360867
+      PSRC_Human_Optimized_CoolTone3_168: -2897882702801474070
+      PSRC_Human_Optimized_CoolTone3_169: -367367691452744121
+      PSRC_Human_Optimized_CoolTone3_17: -5815180899746564971
+      PSRC_Human_Optimized_CoolTone3_170: 87358754361031259
+      PSRC_Human_Optimized_CoolTone3_171: -7763006885805860580
+      PSRC_Human_Optimized_CoolTone3_172: -9082226105708876228
+      PSRC_Human_Optimized_CoolTone3_173: 7841628810827636773
+      PSRC_Human_Optimized_CoolTone3_174: -7012868208013794127
+      PSRC_Human_Optimized_CoolTone3_175: 7600357576274018327
+      PSRC_Human_Optimized_CoolTone3_176: 6380413351428170620
+      PSRC_Human_Optimized_CoolTone3_177: 3355219554391291537
+      PSRC_Human_Optimized_CoolTone3_178: 6901318369949158093
+      PSRC_Human_Optimized_CoolTone3_179: 7654686582578854454
+      PSRC_Human_Optimized_CoolTone3_18: 7549345218567818699
+      PSRC_Human_Optimized_CoolTone3_180: 4539006692565508293
+      PSRC_Human_Optimized_CoolTone3_181: 5042817503821310525
+      PSRC_Human_Optimized_CoolTone3_182: 5786645806989393135
+      PSRC_Human_Optimized_CoolTone3_183: -1309467568439046365
+      PSRC_Human_Optimized_CoolTone3_184: 6902905760987219948
+      PSRC_Human_Optimized_CoolTone3_185: 712718435119527213
+      PSRC_Human_Optimized_CoolTone3_186: 8179236102166676238
+      PSRC_Human_Optimized_CoolTone3_187: -7335670793604421877
+      PSRC_Human_Optimized_CoolTone3_188: 7436082569272183200
+      PSRC_Human_Optimized_CoolTone3_189: -1266406837745815369
+      PSRC_Human_Optimized_CoolTone3_19: 873721533124348552
+      PSRC_Human_Optimized_CoolTone3_190: 28471964218675953
+      PSRC_Human_Optimized_CoolTone3_191: 6885827558236616333
+      PSRC_Human_Optimized_CoolTone3_192: -6795980735954541168
+      PSRC_Human_Optimized_CoolTone3_193: 3113796688481912208
+      PSRC_Human_Optimized_CoolTone3_194: 2112893743398315567
+      PSRC_Human_Optimized_CoolTone3_195: -1625333888199510391
+      PSRC_Human_Optimized_CoolTone3_196: 7924808739379054038
+      PSRC_Human_Optimized_CoolTone3_197: -7985558622007393434
+      PSRC_Human_Optimized_CoolTone3_198: 5720612664147139249
+      PSRC_Human_Optimized_CoolTone3_199: 6336296551049464188
+      PSRC_Human_Optimized_CoolTone3_2: 352220455068946700
+      PSRC_Human_Optimized_CoolTone3_20: -8723445248301406802
+      PSRC_Human_Optimized_CoolTone3_200: -440808068662177179
+      PSRC_Human_Optimized_CoolTone3_201: -9214060039139934555
+      PSRC_Human_Optimized_CoolTone3_202: -2974457176099967335
+      PSRC_Human_Optimized_CoolTone3_203: 1272269008781624644
+      PSRC_Human_Optimized_CoolTone3_204: 7705408565948787769
+      PSRC_Human_Optimized_CoolTone3_205: -3662176871872656551
+      PSRC_Human_Optimized_CoolTone3_206: 8859796925310393186
+      PSRC_Human_Optimized_CoolTone3_207: 7847279699903171313
+      PSRC_Human_Optimized_CoolTone3_208: 8756394532893455110
+      PSRC_Human_Optimized_CoolTone3_209: 6061507921277848243
+      PSRC_Human_Optimized_CoolTone3_21: -1307479576238400570
+      PSRC_Human_Optimized_CoolTone3_210: -2256016871842136697
+      PSRC_Human_Optimized_CoolTone3_211: 3674048936906968574
+      PSRC_Human_Optimized_CoolTone3_212: 8586152782074971919
+      PSRC_Human_Optimized_CoolTone3_213: 2730100673207927204
+      PSRC_Human_Optimized_CoolTone3_214: 8589798984245551289
+      PSRC_Human_Optimized_CoolTone3_215: 2571461613456660768
+      PSRC_Human_Optimized_CoolTone3_216: 4223935064521978954
+      PSRC_Human_Optimized_CoolTone3_217: 4452254297704202627
+      PSRC_Human_Optimized_CoolTone3_218: 4993559895054281098
+      PSRC_Human_Optimized_CoolTone3_219: 1468220499839479508
+      PSRC_Human_Optimized_CoolTone3_22: -9089271594272337735
+      PSRC_Human_Optimized_CoolTone3_220: -667596132901184335
+      PSRC_Human_Optimized_CoolTone3_221: -3597603332743295695
+      PSRC_Human_Optimized_CoolTone3_222: -6244387532191178747
+      PSRC_Human_Optimized_CoolTone3_223: -4552882703049410605
+      PSRC_Human_Optimized_CoolTone3_23: -343060273557313213
+      PSRC_Human_Optimized_CoolTone3_24: -5508822536755202121
+      PSRC_Human_Optimized_CoolTone3_25: 5224384299342341035
+      PSRC_Human_Optimized_CoolTone3_26: 6735225641183130919
+      PSRC_Human_Optimized_CoolTone3_27: -2673133217969991481
+      PSRC_Human_Optimized_CoolTone3_28: -7578131228141700381
+      PSRC_Human_Optimized_CoolTone3_29: 4714750244632164134
+      PSRC_Human_Optimized_CoolTone3_3: -5983862047114629046
+      PSRC_Human_Optimized_CoolTone3_30: 4339407485087794633
+      PSRC_Human_Optimized_CoolTone3_31: 8799902846980082606
+      PSRC_Human_Optimized_CoolTone3_32: -4609717175856125251
+      PSRC_Human_Optimized_CoolTone3_33: -9030199344584595209
+      PSRC_Human_Optimized_CoolTone3_34: -6477790740140793924
+      PSRC_Human_Optimized_CoolTone3_35: -6336212350147531175
+      PSRC_Human_Optimized_CoolTone3_36: 544298451097984476
+      PSRC_Human_Optimized_CoolTone3_37: 2585534871405956572
+      PSRC_Human_Optimized_CoolTone3_38: -2254076334865903228
+      PSRC_Human_Optimized_CoolTone3_39: -5354490848493479341
+      PSRC_Human_Optimized_CoolTone3_4: -2531264491348668643
+      PSRC_Human_Optimized_CoolTone3_40: -7646543995560636162
+      PSRC_Human_Optimized_CoolTone3_41: 7360252938563788303
+      PSRC_Human_Optimized_CoolTone3_42: 4209815249591779434
+      PSRC_Human_Optimized_CoolTone3_43: -7291863799235123638
+      PSRC_Human_Optimized_CoolTone3_44: 8258552085619217025
+      PSRC_Human_Optimized_CoolTone3_45: 5848355942000628692
+      PSRC_Human_Optimized_CoolTone3_46: -7191984649452014291
+      PSRC_Human_Optimized_CoolTone3_47: -3056018630444202565
+      PSRC_Human_Optimized_CoolTone3_48: 5031298278716224546
+      PSRC_Human_Optimized_CoolTone3_49: -278099312231063628
+      PSRC_Human_Optimized_CoolTone3_5: 1320279319560756770
+      PSRC_Human_Optimized_CoolTone3_50: 4503441514600351930
+      PSRC_Human_Optimized_CoolTone3_51: 254667929955143011
+      PSRC_Human_Optimized_CoolTone3_52: -2921963083298990706
+      PSRC_Human_Optimized_CoolTone3_53: 1158799505533450841
+      PSRC_Human_Optimized_CoolTone3_54: -433207938392339176
+      PSRC_Human_Optimized_CoolTone3_55: -2189621525215623411
+      PSRC_Human_Optimized_CoolTone3_56: 2123712696078323376
+      PSRC_Human_Optimized_CoolTone3_57: -5790692748910904713
+      PSRC_Human_Optimized_CoolTone3_58: -4434853693283696296
+      PSRC_Human_Optimized_CoolTone3_59: 5532806435212620985
+      PSRC_Human_Optimized_CoolTone3_6: -1688248925209609958
+      PSRC_Human_Optimized_CoolTone3_60: 5103470203673323308
+      PSRC_Human_Optimized_CoolTone3_61: -8108335620790735203
+      PSRC_Human_Optimized_CoolTone3_62: 1818536163799728566
+      PSRC_Human_Optimized_CoolTone3_63: -210580240729332967
+      PSRC_Human_Optimized_CoolTone3_64: -347012323270883447
+      PSRC_Human_Optimized_CoolTone3_65: -2232853646730485111
+      PSRC_Human_Optimized_CoolTone3_66: 6040723184199280371
+      PSRC_Human_Optimized_CoolTone3_67: 828171677127439565
+      PSRC_Human_Optimized_CoolTone3_68: 1527976534472477302
+      PSRC_Human_Optimized_CoolTone3_69: -5336795889957702338
+      PSRC_Human_Optimized_CoolTone3_7: 6446141333656456976
+      PSRC_Human_Optimized_CoolTone3_70: -4565285742780575607
+      PSRC_Human_Optimized_CoolTone3_71: 1958479608845349857
+      PSRC_Human_Optimized_CoolTone3_72: 501442557782474775
+      PSRC_Human_Optimized_CoolTone3_73: 6567435452672397605
+      PSRC_Human_Optimized_CoolTone3_74: 3726100989256227945
+      PSRC_Human_Optimized_CoolTone3_75: -3166920908435491937
+      PSRC_Human_Optimized_CoolTone3_76: -5802401652390624555
+      PSRC_Human_Optimized_CoolTone3_77: -7895183163097565892
+      PSRC_Human_Optimized_CoolTone3_78: -7920052887308028311
+      PSRC_Human_Optimized_CoolTone3_79: -4829690572635647467
+      PSRC_Human_Optimized_CoolTone3_8: -6912947108780930292
+      PSRC_Human_Optimized_CoolTone3_80: 1700536440819148834
+      PSRC_Human_Optimized_CoolTone3_81: 2970979933048242585
+      PSRC_Human_Optimized_CoolTone3_82: 15710852683980035
+      PSRC_Human_Optimized_CoolTone3_83: -4767595871271554083
+      PSRC_Human_Optimized_CoolTone3_84: 4416898790270397813
+      PSRC_Human_Optimized_CoolTone3_85: 6753250695478648054
+      PSRC_Human_Optimized_CoolTone3_86: 8070682265398322899
+      PSRC_Human_Optimized_CoolTone3_87: -8440326068201662529
+      PSRC_Human_Optimized_CoolTone3_88: 2901329219012368091
+      PSRC_Human_Optimized_CoolTone3_89: 3658610107203330619
+      PSRC_Human_Optimized_CoolTone3_9: -824303425251462781
+      PSRC_Human_Optimized_CoolTone3_90: -5300034706469156221
+      PSRC_Human_Optimized_CoolTone3_91: -482220429145124207
+      PSRC_Human_Optimized_CoolTone3_92: -4055744575521792566
+      PSRC_Human_Optimized_CoolTone3_93: 1728992137341966091
+      PSRC_Human_Optimized_CoolTone3_94: 4644702397481058209
+      PSRC_Human_Optimized_CoolTone3_95: -3602361928521312029
+      PSRC_Human_Optimized_CoolTone3_96: 1195019852833893262
+      PSRC_Human_Optimized_CoolTone3_97: 1388306100226195064
+      PSRC_Human_Optimized_CoolTone3_98: 7957818134623389111
+      PSRC_Human_Optimized_CoolTone3_99: -6071849624352781169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

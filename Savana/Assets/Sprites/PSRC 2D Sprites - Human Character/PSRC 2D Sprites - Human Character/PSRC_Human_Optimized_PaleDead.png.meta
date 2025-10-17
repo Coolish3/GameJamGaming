@@ -1,0 +1,5954 @@
+fileFormatVersion: 2
+guid: 4227fcc13a085f94ebcf3e5d123da24e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7254482651648292251
+    second: PSRC_Human_Optimized_PaleDead_0
+  - first:
+      213: -4320071141602757062
+    second: PSRC_Human_Optimized_PaleDead_1
+  - first:
+      213: -7979446381303488410
+    second: PSRC_Human_Optimized_PaleDead_2
+  - first:
+      213: -7814961663324176330
+    second: PSRC_Human_Optimized_PaleDead_3
+  - first:
+      213: 2179453036784016389
+    second: PSRC_Human_Optimized_PaleDead_4
+  - first:
+      213: -4375566020866666928
+    second: PSRC_Human_Optimized_PaleDead_5
+  - first:
+      213: -3922978170432375604
+    second: PSRC_Human_Optimized_PaleDead_6
+  - first:
+      213: 711103066320309190
+    second: PSRC_Human_Optimized_PaleDead_7
+  - first:
+      213: -7004592742747410888
+    second: PSRC_Human_Optimized_PaleDead_8
+  - first:
+      213: 6438328724216816694
+    second: PSRC_Human_Optimized_PaleDead_9
+  - first:
+      213: -5726825395746959421
+    second: PSRC_Human_Optimized_PaleDead_10
+  - first:
+      213: 8412080336331460187
+    second: PSRC_Human_Optimized_PaleDead_11
+  - first:
+      213: -5035845579551711434
+    second: PSRC_Human_Optimized_PaleDead_12
+  - first:
+      213: 8756262636590916101
+    second: PSRC_Human_Optimized_PaleDead_13
+  - first:
+      213: 1553265786606891125
+    second: PSRC_Human_Optimized_PaleDead_14
+  - first:
+      213: 405105865856826681
+    second: PSRC_Human_Optimized_PaleDead_15
+  - first:
+      213: -6268108262311907790
+    second: PSRC_Human_Optimized_PaleDead_16
+  - first:
+      213: 133649202781974150
+    second: PSRC_Human_Optimized_PaleDead_17
+  - first:
+      213: 6723804883597303092
+    second: PSRC_Human_Optimized_PaleDead_18
+  - first:
+      213: 1102370575183682020
+    second: PSRC_Human_Optimized_PaleDead_19
+  - first:
+      213: 4799148828638856153
+    second: PSRC_Human_Optimized_PaleDead_20
+  - first:
+      213: -7117639254018848219
+    second: PSRC_Human_Optimized_PaleDead_21
+  - first:
+      213: -6490079727908049251
+    second: PSRC_Human_Optimized_PaleDead_22
+  - first:
+      213: 4605528559240647009
+    second: PSRC_Human_Optimized_PaleDead_23
+  - first:
+      213: 5630101924013199186
+    second: PSRC_Human_Optimized_PaleDead_24
+  - first:
+      213: -8214165589575238308
+    second: PSRC_Human_Optimized_PaleDead_25
+  - first:
+      213: -8731124611325519581
+    second: PSRC_Human_Optimized_PaleDead_26
+  - first:
+      213: -1111033632570321441
+    second: PSRC_Human_Optimized_PaleDead_27
+  - first:
+      213: 5288856547878628298
+    second: PSRC_Human_Optimized_PaleDead_28
+  - first:
+      213: 2750446151244496054
+    second: PSRC_Human_Optimized_PaleDead_29
+  - first:
+      213: -6548277797156686681
+    second: PSRC_Human_Optimized_PaleDead_30
+  - first:
+      213: -874431841769036998
+    second: PSRC_Human_Optimized_PaleDead_31
+  - first:
+      213: -6441802061636819245
+    second: PSRC_Human_Optimized_PaleDead_32
+  - first:
+      213: -659190433332327751
+    second: PSRC_Human_Optimized_PaleDead_33
+  - first:
+      213: 2767277074624832154
+    second: PSRC_Human_Optimized_PaleDead_34
+  - first:
+      213: -374189703339686196
+    second: PSRC_Human_Optimized_PaleDead_35
+  - first:
+      213: -5241323847008850049
+    second: PSRC_Human_Optimized_PaleDead_36
+  - first:
+      213: -2586189799134923485
+    second: PSRC_Human_Optimized_PaleDead_37
+  - first:
+      213: 67234704106884673
+    second: PSRC_Human_Optimized_PaleDead_38
+  - first:
+      213: -4963107638613762392
+    second: PSRC_Human_Optimized_PaleDead_39
+  - first:
+      213: -6632182950025007813
+    second: PSRC_Human_Optimized_PaleDead_40
+  - first:
+      213: -8117616176578888681
+    second: PSRC_Human_Optimized_PaleDead_41
+  - first:
+      213: -2496016858360735151
+    second: PSRC_Human_Optimized_PaleDead_42
+  - first:
+      213: 5325204120576396982
+    second: PSRC_Human_Optimized_PaleDead_43
+  - first:
+      213: -2094614778027230372
+    second: PSRC_Human_Optimized_PaleDead_44
+  - first:
+      213: -4469919422669870464
+    second: PSRC_Human_Optimized_PaleDead_45
+  - first:
+      213: -18173730415677252
+    second: PSRC_Human_Optimized_PaleDead_46
+  - first:
+      213: -4775994768608240625
+    second: PSRC_Human_Optimized_PaleDead_47
+  - first:
+      213: 1049619763894910489
+    second: PSRC_Human_Optimized_PaleDead_48
+  - first:
+      213: 8308311062113777287
+    second: PSRC_Human_Optimized_PaleDead_49
+  - first:
+      213: 8728920084348604097
+    second: PSRC_Human_Optimized_PaleDead_50
+  - first:
+      213: 3706869421394495374
+    second: PSRC_Human_Optimized_PaleDead_51
+  - first:
+      213: -1213516099730702453
+    second: PSRC_Human_Optimized_PaleDead_52
+  - first:
+      213: -4259266444291198563
+    second: PSRC_Human_Optimized_PaleDead_53
+  - first:
+      213: -4227778338396884553
+    second: PSRC_Human_Optimized_PaleDead_54
+  - first:
+      213: -7655889761693363207
+    second: PSRC_Human_Optimized_PaleDead_55
+  - first:
+      213: 736594982706015102
+    second: PSRC_Human_Optimized_PaleDead_56
+  - first:
+      213: 5669743904262151709
+    second: PSRC_Human_Optimized_PaleDead_57
+  - first:
+      213: 6872035120304333684
+    second: PSRC_Human_Optimized_PaleDead_58
+  - first:
+      213: -2756191156909016778
+    second: PSRC_Human_Optimized_PaleDead_59
+  - first:
+      213: -3144262996135581842
+    second: PSRC_Human_Optimized_PaleDead_60
+  - first:
+      213: 9083600965722185342
+    second: PSRC_Human_Optimized_PaleDead_61
+  - first:
+      213: 1745608014018362549
+    second: PSRC_Human_Optimized_PaleDead_62
+  - first:
+      213: 724534955009466149
+    second: PSRC_Human_Optimized_PaleDead_63
+  - first:
+      213: -1978722459482821547
+    second: PSRC_Human_Optimized_PaleDead_64
+  - first:
+      213: 1367883733459195892
+    second: PSRC_Human_Optimized_PaleDead_65
+  - first:
+      213: -4559587065664345892
+    second: PSRC_Human_Optimized_PaleDead_66
+  - first:
+      213: 5551596101698632518
+    second: PSRC_Human_Optimized_PaleDead_67
+  - first:
+      213: 4605545372392629122
+    second: PSRC_Human_Optimized_PaleDead_68
+  - first:
+      213: -614308673227772442
+    second: PSRC_Human_Optimized_PaleDead_69
+  - first:
+      213: 7055099499799621316
+    second: PSRC_Human_Optimized_PaleDead_70
+  - first:
+      213: 1061593550896844587
+    second: PSRC_Human_Optimized_PaleDead_71
+  - first:
+      213: 8234382954575692599
+    second: PSRC_Human_Optimized_PaleDead_72
+  - first:
+      213: -6520660646901986100
+    second: PSRC_Human_Optimized_PaleDead_73
+  - first:
+      213: 4137362537199239462
+    second: PSRC_Human_Optimized_PaleDead_74
+  - first:
+      213: 7726071265497585122
+    second: PSRC_Human_Optimized_PaleDead_75
+  - first:
+      213: 6531273329673815047
+    second: PSRC_Human_Optimized_PaleDead_76
+  - first:
+      213: -2825631029894777939
+    second: PSRC_Human_Optimized_PaleDead_77
+  - first:
+      213: -3929578604042703371
+    second: PSRC_Human_Optimized_PaleDead_78
+  - first:
+      213: -2752482630921297053
+    second: PSRC_Human_Optimized_PaleDead_79
+  - first:
+      213: -4290135336210121378
+    second: PSRC_Human_Optimized_PaleDead_80
+  - first:
+      213: -425332898124639173
+    second: PSRC_Human_Optimized_PaleDead_81
+  - first:
+      213: -1027827585617357364
+    second: PSRC_Human_Optimized_PaleDead_82
+  - first:
+      213: 4866505680742386919
+    second: PSRC_Human_Optimized_PaleDead_83
+  - first:
+      213: 5994967491990836770
+    second: PSRC_Human_Optimized_PaleDead_84
+  - first:
+      213: 5741814641370140636
+    second: PSRC_Human_Optimized_PaleDead_85
+  - first:
+      213: -3222853801554972553
+    second: PSRC_Human_Optimized_PaleDead_86
+  - first:
+      213: 25537998421170498
+    second: PSRC_Human_Optimized_PaleDead_87
+  - first:
+      213: -3152842640170880254
+    second: PSRC_Human_Optimized_PaleDead_88
+  - first:
+      213: -1184128763295494380
+    second: PSRC_Human_Optimized_PaleDead_89
+  - first:
+      213: 4113543893789044535
+    second: PSRC_Human_Optimized_PaleDead_90
+  - first:
+      213: 7691437476630072823
+    second: PSRC_Human_Optimized_PaleDead_91
+  - first:
+      213: 8930468450225509791
+    second: PSRC_Human_Optimized_PaleDead_92
+  - first:
+      213: -6980775771579528939
+    second: PSRC_Human_Optimized_PaleDead_93
+  - first:
+      213: 1025773414790574665
+    second: PSRC_Human_Optimized_PaleDead_94
+  - first:
+      213: -9009900092385184391
+    second: PSRC_Human_Optimized_PaleDead_95
+  - first:
+      213: 2290108598016686223
+    second: PSRC_Human_Optimized_PaleDead_96
+  - first:
+      213: -484392459210031140
+    second: PSRC_Human_Optimized_PaleDead_97
+  - first:
+      213: -1344512878373599010
+    second: PSRC_Human_Optimized_PaleDead_98
+  - first:
+      213: -2001306918207272370
+    second: PSRC_Human_Optimized_PaleDead_99
+  - first:
+      213: -1653082144639107514
+    second: PSRC_Human_Optimized_PaleDead_100
+  - first:
+      213: 2093021256745241603
+    second: PSRC_Human_Optimized_PaleDead_101
+  - first:
+      213: 2110594625091794450
+    second: PSRC_Human_Optimized_PaleDead_102
+  - first:
+      213: 3323807691441394695
+    second: PSRC_Human_Optimized_PaleDead_103
+  - first:
+      213: 2137876426373629731
+    second: PSRC_Human_Optimized_PaleDead_104
+  - first:
+      213: -502916282867828862
+    second: PSRC_Human_Optimized_PaleDead_105
+  - first:
+      213: -2129107109403660564
+    second: PSRC_Human_Optimized_PaleDead_106
+  - first:
+      213: -92755459892168708
+    second: PSRC_Human_Optimized_PaleDead_107
+  - first:
+      213: 421359009032812137
+    second: PSRC_Human_Optimized_PaleDead_108
+  - first:
+      213: 6382374032334875685
+    second: PSRC_Human_Optimized_PaleDead_109
+  - first:
+      213: -1448140508186811325
+    second: PSRC_Human_Optimized_PaleDead_110
+  - first:
+      213: -6298975003400173654
+    second: PSRC_Human_Optimized_PaleDead_111
+  - first:
+      213: -7504050754523227650
+    second: PSRC_Human_Optimized_PaleDead_112
+  - first:
+      213: -6277461397053230272
+    second: PSRC_Human_Optimized_PaleDead_113
+  - first:
+      213: -4006266565743040449
+    second: PSRC_Human_Optimized_PaleDead_114
+  - first:
+      213: 5275392761443718960
+    second: PSRC_Human_Optimized_PaleDead_115
+  - first:
+      213: -236532685186796462
+    second: PSRC_Human_Optimized_PaleDead_116
+  - first:
+      213: -377798775060664744
+    second: PSRC_Human_Optimized_PaleDead_117
+  - first:
+      213: 3140683577137935110
+    second: PSRC_Human_Optimized_PaleDead_118
+  - first:
+      213: 2309929771292273390
+    second: PSRC_Human_Optimized_PaleDead_119
+  - first:
+      213: -3636747258812298837
+    second: PSRC_Human_Optimized_PaleDead_120
+  - first:
+      213: 1333919326137290020
+    second: PSRC_Human_Optimized_PaleDead_121
+  - first:
+      213: 5292777835634427418
+    second: PSRC_Human_Optimized_PaleDead_122
+  - first:
+      213: 3170447243785848509
+    second: PSRC_Human_Optimized_PaleDead_123
+  - first:
+      213: 6702198755532798515
+    second: PSRC_Human_Optimized_PaleDead_124
+  - first:
+      213: 7298803757952166898
+    second: PSRC_Human_Optimized_PaleDead_125
+  - first:
+      213: -482187930447552583
+    second: PSRC_Human_Optimized_PaleDead_126
+  - first:
+      213: -2651724295886825095
+    second: PSRC_Human_Optimized_PaleDead_127
+  - first:
+      213: 3359013919885081094
+    second: PSRC_Human_Optimized_PaleDead_128
+  - first:
+      213: 6861554289034343608
+    second: PSRC_Human_Optimized_PaleDead_129
+  - first:
+      213: -6387117492407194612
+    second: PSRC_Human_Optimized_PaleDead_130
+  - first:
+      213: 5235553189204144156
+    second: PSRC_Human_Optimized_PaleDead_131
+  - first:
+      213: 9185528972518906657
+    second: PSRC_Human_Optimized_PaleDead_132
+  - first:
+      213: 2477512083582611965
+    second: PSRC_Human_Optimized_PaleDead_133
+  - first:
+      213: -2401784756638360446
+    second: PSRC_Human_Optimized_PaleDead_134
+  - first:
+      213: 1629203535410290028
+    second: PSRC_Human_Optimized_PaleDead_135
+  - first:
+      213: -6545708023220101489
+    second: PSRC_Human_Optimized_PaleDead_136
+  - first:
+      213: 1642844911622845085
+    second: PSRC_Human_Optimized_PaleDead_137
+  - first:
+      213: 2364802105160530220
+    second: PSRC_Human_Optimized_PaleDead_138
+  - first:
+      213: 3054991100082402518
+    second: PSRC_Human_Optimized_PaleDead_139
+  - first:
+      213: -6935721776767118808
+    second: PSRC_Human_Optimized_PaleDead_140
+  - first:
+      213: 6664712193541281380
+    second: PSRC_Human_Optimized_PaleDead_141
+  - first:
+      213: 745451559815288767
+    second: PSRC_Human_Optimized_PaleDead_142
+  - first:
+      213: 6965400397299860075
+    second: PSRC_Human_Optimized_PaleDead_143
+  - first:
+      213: 4571279044347071827
+    second: PSRC_Human_Optimized_PaleDead_144
+  - first:
+      213: -3366223969316643023
+    second: PSRC_Human_Optimized_PaleDead_145
+  - first:
+      213: 5041868605936865402
+    second: PSRC_Human_Optimized_PaleDead_146
+  - first:
+      213: -6077226549383387800
+    second: PSRC_Human_Optimized_PaleDead_147
+  - first:
+      213: 7576481094288178718
+    second: PSRC_Human_Optimized_PaleDead_148
+  - first:
+      213: 458022536986578242
+    second: PSRC_Human_Optimized_PaleDead_149
+  - first:
+      213: 3059597801046160090
+    second: PSRC_Human_Optimized_PaleDead_150
+  - first:
+      213: 835871474494844707
+    second: PSRC_Human_Optimized_PaleDead_151
+  - first:
+      213: 4884126942873066005
+    second: PSRC_Human_Optimized_PaleDead_152
+  - first:
+      213: 896451265575227210
+    second: PSRC_Human_Optimized_PaleDead_153
+  - first:
+      213: 4938482335419398713
+    second: PSRC_Human_Optimized_PaleDead_154
+  - first:
+      213: 2202011542620995601
+    second: PSRC_Human_Optimized_PaleDead_155
+  - first:
+      213: 3601169357451780871
+    second: PSRC_Human_Optimized_PaleDead_156
+  - first:
+      213: -397444590577403799
+    second: PSRC_Human_Optimized_PaleDead_157
+  - first:
+      213: 1047656228589878995
+    second: PSRC_Human_Optimized_PaleDead_158
+  - first:
+      213: 8542684182549177003
+    second: PSRC_Human_Optimized_PaleDead_159
+  - first:
+      213: -4659273909485592429
+    second: PSRC_Human_Optimized_PaleDead_160
+  - first:
+      213: 7491025552251023149
+    second: PSRC_Human_Optimized_PaleDead_161
+  - first:
+      213: 883899336745226486
+    second: PSRC_Human_Optimized_PaleDead_162
+  - first:
+      213: -7975995274789501340
+    second: PSRC_Human_Optimized_PaleDead_163
+  - first:
+      213: -9200062264935054529
+    second: PSRC_Human_Optimized_PaleDead_164
+  - first:
+      213: -7615156151148834945
+    second: PSRC_Human_Optimized_PaleDead_165
+  - first:
+      213: 9113881194423594327
+    second: PSRC_Human_Optimized_PaleDead_166
+  - first:
+      213: 1988750890416906305
+    second: PSRC_Human_Optimized_PaleDead_167
+  - first:
+      213: -4503556924795030414
+    second: PSRC_Human_Optimized_PaleDead_168
+  - first:
+      213: -2735040566462643951
+    second: PSRC_Human_Optimized_PaleDead_169
+  - first:
+      213: -2922108958329782938
+    second: PSRC_Human_Optimized_PaleDead_170
+  - first:
+      213: 6880391948146919616
+    second: PSRC_Human_Optimized_PaleDead_171
+  - first:
+      213: 7182472558650859850
+    second: PSRC_Human_Optimized_PaleDead_172
+  - first:
+      213: -4455152368785820104
+    second: PSRC_Human_Optimized_PaleDead_173
+  - first:
+      213: -5042049666761176740
+    second: PSRC_Human_Optimized_PaleDead_174
+  - first:
+      213: -4662549011477884123
+    second: PSRC_Human_Optimized_PaleDead_175
+  - first:
+      213: -8411345492172558776
+    second: PSRC_Human_Optimized_PaleDead_176
+  - first:
+      213: -2334499251562508358
+    second: PSRC_Human_Optimized_PaleDead_177
+  - first:
+      213: 5739621777945332525
+    second: PSRC_Human_Optimized_PaleDead_178
+  - first:
+      213: -6418541048749788179
+    second: PSRC_Human_Optimized_PaleDead_179
+  - first:
+      213: -263743787392146772
+    second: PSRC_Human_Optimized_PaleDead_180
+  - first:
+      213: 6655472370377006740
+    second: PSRC_Human_Optimized_PaleDead_181
+  - first:
+      213: -3831870270104514592
+    second: PSRC_Human_Optimized_PaleDead_182
+  - first:
+      213: 3686252773307468606
+    second: PSRC_Human_Optimized_PaleDead_183
+  - first:
+      213: -622285843977035965
+    second: PSRC_Human_Optimized_PaleDead_184
+  - first:
+      213: 8152816459083910645
+    second: PSRC_Human_Optimized_PaleDead_185
+  - first:
+      213: 8030034755972699413
+    second: PSRC_Human_Optimized_PaleDead_186
+  - first:
+      213: -699974116686674684
+    second: PSRC_Human_Optimized_PaleDead_187
+  - first:
+      213: 7180177623183135216
+    second: PSRC_Human_Optimized_PaleDead_188
+  - first:
+      213: 196272205114656723
+    second: PSRC_Human_Optimized_PaleDead_189
+  - first:
+      213: -80945577292311125
+    second: PSRC_Human_Optimized_PaleDead_190
+  - first:
+      213: 2142632604698519905
+    second: PSRC_Human_Optimized_PaleDead_191
+  - first:
+      213: -8767675833286065114
+    second: PSRC_Human_Optimized_PaleDead_192
+  - first:
+      213: -169640279941932602
+    second: PSRC_Human_Optimized_PaleDead_193
+  - first:
+      213: -201380613805385520
+    second: PSRC_Human_Optimized_PaleDead_194
+  - first:
+      213: -376871088475990144
+    second: PSRC_Human_Optimized_PaleDead_195
+  - first:
+      213: 7987157363784872394
+    second: PSRC_Human_Optimized_PaleDead_196
+  - first:
+      213: 1038685285381663488
+    second: PSRC_Human_Optimized_PaleDead_197
+  - first:
+      213: -8040099280373072963
+    second: PSRC_Human_Optimized_PaleDead_198
+  - first:
+      213: 1554460991905692087
+    second: PSRC_Human_Optimized_PaleDead_199
+  - first:
+      213: 8202250602340819040
+    second: PSRC_Human_Optimized_PaleDead_200
+  - first:
+      213: 7788798423230415065
+    second: PSRC_Human_Optimized_PaleDead_201
+  - first:
+      213: 4573121300551173825
+    second: PSRC_Human_Optimized_PaleDead_202
+  - first:
+      213: 7878427510464420561
+    second: PSRC_Human_Optimized_PaleDead_203
+  - first:
+      213: 3905584009043355306
+    second: PSRC_Human_Optimized_PaleDead_204
+  - first:
+      213: -7892695186071465595
+    second: PSRC_Human_Optimized_PaleDead_205
+  - first:
+      213: 8344632597125117686
+    second: PSRC_Human_Optimized_PaleDead_206
+  - first:
+      213: -5715090456551748598
+    second: PSRC_Human_Optimized_PaleDead_207
+  - first:
+      213: 2180057176796992465
+    second: PSRC_Human_Optimized_PaleDead_208
+  - first:
+      213: -7562436367636536926
+    second: PSRC_Human_Optimized_PaleDead_209
+  - first:
+      213: 6335596631762339428
+    second: PSRC_Human_Optimized_PaleDead_210
+  - first:
+      213: 5776920924371728217
+    second: PSRC_Human_Optimized_PaleDead_211
+  - first:
+      213: 8827135921252317516
+    second: PSRC_Human_Optimized_PaleDead_212
+  - first:
+      213: -5843226287230869154
+    second: PSRC_Human_Optimized_PaleDead_213
+  - first:
+      213: 7751125700854939438
+    second: PSRC_Human_Optimized_PaleDead_214
+  - first:
+      213: -1872934489125120870
+    second: PSRC_Human_Optimized_PaleDead_215
+  - first:
+      213: 8791497726453194396
+    second: PSRC_Human_Optimized_PaleDead_216
+  - first:
+      213: -1759160981194497843
+    second: PSRC_Human_Optimized_PaleDead_217
+  - first:
+      213: 4618967825408207799
+    second: PSRC_Human_Optimized_PaleDead_218
+  - first:
+      213: -8558145372127998071
+    second: PSRC_Human_Optimized_PaleDead_219
+  - first:
+      213: -1960853119827888852
+    second: PSRC_Human_Optimized_PaleDead_220
+  - first:
+      213: 2408859504601115924
+    second: PSRC_Human_Optimized_PaleDead_221
+  - first:
+      213: -2738436061462569282
+    second: PSRC_Human_Optimized_PaleDead_222
+  - first:
+      213: -1445867973898748767
+    second: PSRC_Human_Optimized_PaleDead_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95fab829891da460800000000000000
+      internalID: 7254482651648292251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36f9587f260c04c0800000000000000
+      internalID: -4320071141602757062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660212a0bcf434190800000000000000
+      internalID: -7979446381303488410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630444cc5cdab8390800000000000000
+      internalID: -7814961663324176330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c582e5df8fe3e10800000000000000
+      internalID: 2179453036784016389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e09f203edd643c0800000000000000
+      internalID: -4375566020866666928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc434c98328ce89c0800000000000000
+      internalID: -3922978170432375604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb86b2a8785ed900800000000000000
+      internalID: 711103066320309190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee24c2300bace90800000000000000
+      internalID: -7004592742747410888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634232aecd9895950800000000000000
+      internalID: 6438328724216816694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf01d305aa3680b0800000000000000
+      internalID: -5726825395746959421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec51d2f76bdb470800000000000000
+      internalID: 8412080336331460187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f591f50251d1ab0800000000000000
+      internalID: -5035845579551711434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e60ea97e748970800000000000000
+      internalID: 8756262636590916101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b87cd00f4e8510800000000000000
+      internalID: 1553265786606891125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 242
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db2de73a93f9500800000000000000
+      internalID: 405105865856826681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e253bceb43309a0800000000000000
+      internalID: -6268108262311907790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6558ed31dad100800000000000000
+      internalID: 133649202781974150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9ad9dae0cf4d50800000000000000
+      internalID: 6723804883597303092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99aa092386c4f00800000000000000
+      internalID: 1102370575183682020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34043ce600a9240800000000000000
+      internalID: 4799148828638856153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a84d03fc0193d90800000000000000
+      internalID: -7117639254018848219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 225
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea3169fda9ee5a0800000000000000
+      internalID: -6490079727908049251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619470d2df1aef30800000000000000
+      internalID: 4605528559240647009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcc0eced3222e40800000000000000
+      internalID: 5630101924013199186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7123baeb610e80800000000000000
+      internalID: -8214165589575238308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329954cec60d4d680800000000000000
+      internalID: -8731124611325519581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd552253cc0d490f0800000000000000
+      internalID: -1111033632570321441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbed4c320bc56940800000000000000
+      internalID: 5288856547878628298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcb4cab33c8b2620800000000000000
+      internalID: 2750446151244496054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f5e9a908df15a0800000000000000
+      internalID: -6548277797156686681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e0137fd46dd3f0800000000000000
+      internalID: -874431841769036998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d622c2b72f1a96a0800000000000000
+      internalID: -6441802061636819245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba04ed1bc51ad6f0800000000000000
+      internalID: -659190433332327751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 207
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92681476d7576620800000000000000
+      internalID: 2767277074624832154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc644d5827c9ecaf0800000000000000
+      internalID: -374189703339686196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe04a1bb31347b0800000000000000
+      internalID: -5241323847008850049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325f2d474120c1cd0800000000000000
+      internalID: -2586189799134923485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e8ede6b9ddee000800000000000000
+      internalID: 67234704106884673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 209
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae166af5ef7f1bb0800000000000000
+      internalID: -4963107638613762392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d6b5aeeb0c5f3a0800000000000000
+      internalID: -6632182950025007813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cfc0ca81f685f80800000000000000
+      internalID: -8117616176578888681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a950c44ed5c5dd0800000000000000
+      internalID: -2496016858360735151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be076bfeece6e940800000000000000
+      internalID: 5325204120576396982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 208
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b376605fe6ee2e0800000000000000
+      internalID: -2094614778027230372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa42db7f7a7f1c0800000000000000
+      internalID: -4469919422669870464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb07456a61f6fbff0800000000000000
+      internalID: -18173730415677252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5bffef0248bdb0800000000000000
+      internalID: -4775994768608240625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7f283d9ff09e00800000000000000
+      internalID: 1049619763894910489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867db444ec0d4370800000000000000
+      internalID: 8308311062113777287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0f54a19a532970800000000000000
+      internalID: 8728920084348604097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e870af25912717330800000000000000
+      internalID: 3706869421394495374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f755a6989b82fe0800000000000000
+      internalID: -1213516099730702453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9138484cbb04e4c0800000000000000
+      internalID: -4259266444291198563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b133ce300ae355c0800000000000000
+      internalID: -4227778338396884553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f397ba03d0d0c590800000000000000
+      internalID: -7655889761693363207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7be68feb39e83a00800000000000000
+      internalID: 736594982706015102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5bf49a0afeae40800000000000000
+      internalID: 5669743904262151709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473afb5488f5e5f50800000000000000
+      internalID: 6872035120304333684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6397d57eeba00c9d0800000000000000
+      internalID: -2756191156909016778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67eeeac6755d54d0800000000000000
+      internalID: -3144262996135581842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e144b83fe6f0e70800000000000000
+      internalID: 9083600965722185342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb3a87d35a93810800000000000000
+      internalID: 1745608014018362549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f51bce3b01e0a00800000000000000
+      internalID: 724534955009466149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6075286a2a84e0800000000000000
+      internalID: -1978722459482821547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7deda1203bbf210800000000000000
+      internalID: 1367883733459195892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86c94b8b719b0c0800000000000000
+      internalID: -4559587065664345892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bb03aad3b3b0d40800000000000000
+      internalID: 5551596101698632518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283286e6d1f2aef30800000000000000
+      internalID: 4605545372392629122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed21d534898977f0800000000000000
+      internalID: -614308673227772442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea7949d9fb8e160800000000000000
+      internalID: 7055099499799621316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f4d01c5b98bbe00800000000000000
+      internalID: 1061593550896844587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73304086ba7664270800000000000000
+      internalID: 8234382954575692599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccc98880b5f185a0800000000000000
+      internalID: -6520660646901986100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62105c09e4dda6930800000000000000
+      internalID: 4137362537199239462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_75
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e51659a1e4883b60800000000000000
+      internalID: 7726071265497585122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c03a3d7eb3aa50800000000000000
+      internalID: 6531273329673815047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3fcc49c8759c8d0800000000000000
+      internalID: -2825631029894777939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2f0554155779c0800000000000000
+      internalID: -3929578604042703371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e08561a73dc9d0800000000000000
+      internalID: -2752482630921297053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d38de44a06674c0800000000000000
+      internalID: -4290135336210121378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345eff8bf9e81af0800000000000000
+      internalID: -425332898124639173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc51eeca14c6cb1f0800000000000000
+      internalID: -1027827585617357364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec021ef12d498340800000000000000
+      internalID: 4866505680742386919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d028db27623350800000000000000
+      internalID: 5994967491990836770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 146
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0101bef50faf40800000000000000
+      internalID: 5741814641370140636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 146
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7707c4bfa8f1643d0800000000000000
+      internalID: -3222853801554972553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2491b2c9caaba5000800000000000000
+      internalID: 25537998421170498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f8efb25ade34d0800000000000000
+      internalID: -3152842640170880254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f037fd921219fe0800000000000000
+      internalID: -1184128763295494380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fe54d706e361930800000000000000
+      internalID: 4113543893789044535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 146
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd89ae42a97dba60800000000000000
+      internalID: 7691437476630072823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9556856db56feb70800000000000000
+      internalID: 8930468450225509791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 146
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194956eb6d4f1f90800000000000000
+      internalID: -6980775771579528939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b1a86c774c3e00800000000000000
+      internalID: 1025773414790574665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9753f9b3a9766f280800000000000000
+      internalID: -9009900092385184391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883ad9e2a918cf10800000000000000
+      internalID: 2290108598016686223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf78e0ff971749f0800000000000000
+      internalID: -484392459210031140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_98
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed88a9029a4575de0800000000000000
+      internalID: -1344512878373599010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a49b516fde934e0800000000000000
+      internalID: -2001306918207272370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ebe304c821f09e0800000000000000
+      internalID: -1653082144639107514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c44a36eb7eb0d10800000000000000
+      internalID: 2093021256745241603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f17d01a65a4d10800000000000000
+      internalID: 2110594625091794450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704531e2c79802e20800000000000000
+      internalID: 3323807691441394695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 115
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3278ea768434bad10800000000000000
+      internalID: 2137876426373629731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28737e72e484509f0800000000000000
+      internalID: -502916282867828862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 115
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6c3f4d54e372e0800000000000000
+      internalID: -2129107109403660564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf73622966776bef0800000000000000
+      internalID: -92755459892168708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966bf4849c7f8d500800000000000000
+      internalID: 421359009032812137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c6ffcfd5fb29850800000000000000
+      internalID: 6382374032334875685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 84
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344eba061eb27ebe0800000000000000
+      internalID: -1448140508186811325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_111
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa784499b9b8598a0800000000000000
+      internalID: -6298975003400173654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91420d8914cd790800000000000000
+      internalID: -7504050754523227650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433a696e1af1e8a0800000000000000
+      internalID: -6277461397053230272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_114
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ac59d8c1e668c0800000000000000
+      internalID: -4006266565743040449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_115
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037158c24c5f53940800000000000000
+      internalID: 5275392761443718960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254fba9a6caa7bcf0800000000000000
+      internalID: -236532685186796462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_117
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6ee7040ac1caf0800000000000000
+      internalID: -377798775060664744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b537c213f59b20800000000000000
+      internalID: 3140683577137935110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa9f173e48e0020800000000000000
+      internalID: 2309929771292273390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba90e9ce2ada78dc0800000000000000
+      internalID: -3636747258812298837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_121
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d01794f88038210800000000000000
+      internalID: 1333919326137290020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_122
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a160d003669b37940800000000000000
+      internalID: 5292777835634427418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c8f078f0bffb20800000000000000
+      internalID: 3170447243785848509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af895224ef20d50800000000000000
+      internalID: 6702198755532798515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_125
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb660ed85f8a4560800000000000000
+      internalID: 7298803757952166898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf51bac1acee49f0800000000000000
+      internalID: -482187930447552583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97994656dce233bd0800000000000000
+      internalID: -2651724295886825095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab7520d5d9d9e20800000000000000
+      internalID: 3359013919885081094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_129
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b433f49543293f50800000000000000
+      internalID: 6861554289034343608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_130
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca2662b766c57a0800000000000000
+      internalID: -6387117492407194612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103d2de2eb68a840800000000000000
+      internalID: 5235553189204144156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_132
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b5c09feed897f70800000000000000
+      internalID: 9185528972518906657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1fda41d14e16220800000000000000
+      internalID: 2477512083582611965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c5f913d752baed0800000000000000
+      internalID: -2401784756638360446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dd0facbf71c9610800000000000000
+      internalID: 1629203535410290028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9a88cb39f825a0800000000000000
+      internalID: -6545708023220101489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9276523ebe8cc610800000000000000
+      internalID: 1642844911622845085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2970324cf671d020800000000000000
+      internalID: 2364802105160530220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d434603832856a20800000000000000
+      internalID: 3054991100082402518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_140
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822dad28acd5fbf90800000000000000
+      internalID: -6935721776767118808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661e3acd60dd7c50800000000000000
+      internalID: 6664712193541281380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71d0c7e30685a00800000000000000
+      internalID: 745451559815288767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b624c6fc1c21aa060800000000000000
+      internalID: 6965400397299860075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8e773212707f30800000000000000
+      internalID: 4571279044347071827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_145
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd97a8225c841d0800000000000000
+      internalID: -3366223969316643023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709f0db8c058f540800000000000000
+      internalID: 5041868605936865402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652e60e6aa59aba0800000000000000
+      internalID: -6077226549383387800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e7280d961152960800000000000000
+      internalID: 7576481094288178718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d453812193b5600800000000000000
+      internalID: 458022536986578242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad23ce65dffd57a20800000000000000
+      internalID: 3059597801046160090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_151
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa52b6dac999b00800000000000000
+      internalID: 835871474494844707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_152
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1ddbc397e7c340800000000000000
+      internalID: 4884126942873066005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_153
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8f0b2da5d07c00800000000000000
+      internalID: 896451265575227210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93af634d483098440800000000000000
+      internalID: 4938482335419398713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_155
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100c3dc4dd1f8e10800000000000000
+      internalID: 2202011542620995601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7036fe6637ce9f130800000000000000
+      internalID: 3601169357451780871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_157
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968bbb8204efb7af0800000000000000
+      internalID: -397444590577403799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_158
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de33d70ac50a8e00800000000000000
+      internalID: 1047656228589878995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_159
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22131c006bd8670800000000000000
+      internalID: 8542684182549177003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_160
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390add1b01fe65fb0800000000000000
+      internalID: -4659273909485592429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_161
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2feb45fc0875f760800000000000000
+      internalID: 7491025552251023149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_162
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f017ef73cd344c00800000000000000
+      internalID: 883899336745226486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664af36e829f4190800000000000000
+      internalID: -7975995274789501340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_164
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3302133d10d25080800000000000000
+      internalID: -9200062264935054529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_165
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f84adc3d7815690800000000000000
+      internalID: -7615156151148834945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_166
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d2bbea8a20b7e70800000000000000
+      internalID: 9113881194423594327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_167
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140aa02e566799b10800000000000000
+      internalID: 1988750890416906305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_168
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27477d776d62081c0800000000000000
+      internalID: -4503556924795030414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11106bd781f2b0ad0800000000000000
+      internalID: -2735040566462643951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_170
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d34c762659277d0800000000000000
+      internalID: -2922108958329782938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c841c0e5001c7f50800000000000000
+      internalID: 6880391948146919616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41206bdcb44da360800000000000000
+      internalID: 7182472558650859850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f746668e1c22c0800000000000000
+      internalID: -4455152368785820104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_174
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c2d0ca8a070ab0800000000000000
+      internalID: -5042049666761176740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_175
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 57
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231307906c4b4fb0800000000000000
+      internalID: -4662549011477884123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea8ff07d5e44b80800000000000000
+      internalID: -8411345492172558776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf8336ac413a9fd0800000000000000
+      internalID: -2334499251562508358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0783e89b37af40800000000000000
+      internalID: 5739621777945332525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_179
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 58
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3710d4ce2cce6a0800000000000000
+      internalID: -6418541048749788179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_180
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca266c83c6ef65cf0800000000000000
+      internalID: -263743787392146772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_181
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9fb0dbdcfc5c50800000000000000
+      internalID: 6655472370377006740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4a0d9a4672dac0800000000000000
+      internalID: -3831870270104514592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_183
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4a41ed53382330800000000000000
+      internalID: 3686252773307468606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9ef862523d57f0800000000000000
+      internalID: -622285843977035965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd87a2cf5f942170800000000000000
+      internalID: 8152816459083910645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151bcbc01a607f60800000000000000
+      internalID: 8030034755972699413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_187
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4054ceedf313946f0800000000000000
+      internalID: -699974116686674684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_188
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11a0e818d15a360800000000000000
+      internalID: 7180177623183135216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74429d78c49b200800000000000000
+      internalID: 196272205114656723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_190
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba55a532d6c60eef0800000000000000
+      internalID: -80945577292311125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_191
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a93770092cbd10800000000000000
+      internalID: 2142632604698519905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_192
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405336845f25680800000000000000
+      internalID: -8767675833286065114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9967e601155adf0800000000000000
+      internalID: -169640279941932602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8da71166d843df0800000000000000
+      internalID: -201380613805385520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871645edb515caf0800000000000000
+      internalID: -376871088475990144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_196
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1fa89fd4518de60800000000000000
+      internalID: 7987157363784872394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_197
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b699c83c62a6e00800000000000000
+      internalID: 1038685285381663488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_198
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb3d728d44db6090800000000000000
+      internalID: -8040099280373072963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_199
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b97db7490e829510800000000000000
+      internalID: 1554460991905692087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_200
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0602247277f34d170800000000000000
+      internalID: 8202250602340819040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d085cb26ee571c60800000000000000
+      internalID: 7788798423230415065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6002ae79df67f30800000000000000
+      internalID: 4573121300551173825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da95ed341cc55d60800000000000000
+      internalID: 7878427510464420561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_204
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a97ba6fb633630800000000000000
+      internalID: 3905584009043355306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 28
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58156c9ab83877290800000000000000
+      internalID: -7892695186071465595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_206
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6b9c4a2271ec370800000000000000
+      internalID: 8344632597125117686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_207
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c0206728befa0b0800000000000000
+      internalID: -5715090456551748598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_208
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3960da37e114e10800000000000000
+      internalID: 2180057176796992465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_209
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1678ee034dc0790800000000000000
+      internalID: -7562436367636536926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660b54b19f8ce750800000000000000
+      internalID: 6335596631762339428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b2b829febb2050800000000000000
+      internalID: 5776920924371728217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_212
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b55a2a59408a70800000000000000
+      internalID: 8827135921252317516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_213
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51216786a0b8eea0800000000000000
+      internalID: -5843226287230869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ffbd8f1c7819b60800000000000000
+      internalID: 7751125700854939438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949e1061000206e0800000000000000
+      internalID: -1872934489125120870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_216
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e95e45a9ca10a70800000000000000
+      internalID: 8791497726453194396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_217
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ac2578643697e0800000000000000
+      internalID: -1759160981194497843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_218
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2a6ec3ced91040800000000000000
+      internalID: 4618967825408207799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_219
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4826802c5b3980800000000000000
+      internalID: -8558145372127998071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_220
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2531fff976a9c4e0800000000000000
+      internalID: -1960853119827888852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_221
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da29de4fcfd6120800000000000000
+      internalID: 2408859504601115924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_222
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe576439ee1ff9d0800000000000000
+      internalID: -2738436061462569282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSRC_Human_Optimized_PaleDead_223
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb6affcbe3febe0800000000000000
+      internalID: -1445867973898748767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PSRC_Human_Optimized_PaleDead_0: 7254482651648292251
+      PSRC_Human_Optimized_PaleDead_1: -4320071141602757062
+      PSRC_Human_Optimized_PaleDead_10: -5726825395746959421
+      PSRC_Human_Optimized_PaleDead_100: -1653082144639107514
+      PSRC_Human_Optimized_PaleDead_101: 2093021256745241603
+      PSRC_Human_Optimized_PaleDead_102: 2110594625091794450
+      PSRC_Human_Optimized_PaleDead_103: 3323807691441394695
+      PSRC_Human_Optimized_PaleDead_104: 2137876426373629731
+      PSRC_Human_Optimized_PaleDead_105: -502916282867828862
+      PSRC_Human_Optimized_PaleDead_106: -2129107109403660564
+      PSRC_Human_Optimized_PaleDead_107: -92755459892168708
+      PSRC_Human_Optimized_PaleDead_108: 421359009032812137
+      PSRC_Human_Optimized_PaleDead_109: 6382374032334875685
+      PSRC_Human_Optimized_PaleDead_11: 8412080336331460187
+      PSRC_Human_Optimized_PaleDead_110: -1448140508186811325
+      PSRC_Human_Optimized_PaleDead_111: -6298975003400173654
+      PSRC_Human_Optimized_PaleDead_112: -7504050754523227650
+      PSRC_Human_Optimized_PaleDead_113: -6277461397053230272
+      PSRC_Human_Optimized_PaleDead_114: -4006266565743040449
+      PSRC_Human_Optimized_PaleDead_115: 5275392761443718960
+      PSRC_Human_Optimized_PaleDead_116: -236532685186796462
+      PSRC_Human_Optimized_PaleDead_117: -377798775060664744
+      PSRC_Human_Optimized_PaleDead_118: 3140683577137935110
+      PSRC_Human_Optimized_PaleDead_119: 2309929771292273390
+      PSRC_Human_Optimized_PaleDead_12: -5035845579551711434
+      PSRC_Human_Optimized_PaleDead_120: -3636747258812298837
+      PSRC_Human_Optimized_PaleDead_121: 1333919326137290020
+      PSRC_Human_Optimized_PaleDead_122: 5292777835634427418
+      PSRC_Human_Optimized_PaleDead_123: 3170447243785848509
+      PSRC_Human_Optimized_PaleDead_124: 6702198755532798515
+      PSRC_Human_Optimized_PaleDead_125: 7298803757952166898
+      PSRC_Human_Optimized_PaleDead_126: -482187930447552583
+      PSRC_Human_Optimized_PaleDead_127: -2651724295886825095
+      PSRC_Human_Optimized_PaleDead_128: 3359013919885081094
+      PSRC_Human_Optimized_PaleDead_129: 6861554289034343608
+      PSRC_Human_Optimized_PaleDead_13: 8756262636590916101
+      PSRC_Human_Optimized_PaleDead_130: -6387117492407194612
+      PSRC_Human_Optimized_PaleDead_131: 5235553189204144156
+      PSRC_Human_Optimized_PaleDead_132: 9185528972518906657
+      PSRC_Human_Optimized_PaleDead_133: 2477512083582611965
+      PSRC_Human_Optimized_PaleDead_134: -2401784756638360446
+      PSRC_Human_Optimized_PaleDead_135: 1629203535410290028
+      PSRC_Human_Optimized_PaleDead_136: -6545708023220101489
+      PSRC_Human_Optimized_PaleDead_137: 1642844911622845085
+      PSRC_Human_Optimized_PaleDead_138: 2364802105160530220
+      PSRC_Human_Optimized_PaleDead_139: 3054991100082402518
+      PSRC_Human_Optimized_PaleDead_14: 1553265786606891125
+      PSRC_Human_Optimized_PaleDead_140: -6935721776767118808
+      PSRC_Human_Optimized_PaleDead_141: 6664712193541281380
+      PSRC_Human_Optimized_PaleDead_142: 745451559815288767
+      PSRC_Human_Optimized_PaleDead_143: 6965400397299860075
+      PSRC_Human_Optimized_PaleDead_144: 4571279044347071827
+      PSRC_Human_Optimized_PaleDead_145: -3366223969316643023
+      PSRC_Human_Optimized_PaleDead_146: 5041868605936865402
+      PSRC_Human_Optimized_PaleDead_147: -6077226549383387800
+      PSRC_Human_Optimized_PaleDead_148: 7576481094288178718
+      PSRC_Human_Optimized_PaleDead_149: 458022536986578242
+      PSRC_Human_Optimized_PaleDead_15: 405105865856826681
+      PSRC_Human_Optimized_PaleDead_150: 3059597801046160090
+      PSRC_Human_Optimized_PaleDead_151: 835871474494844707
+      PSRC_Human_Optimized_PaleDead_152: 4884126942873066005
+      PSRC_Human_Optimized_PaleDead_153: 896451265575227210
+      PSRC_Human_Optimized_PaleDead_154: 4938482335419398713
+      PSRC_Human_Optimized_PaleDead_155: 2202011542620995601
+      PSRC_Human_Optimized_PaleDead_156: 3601169357451780871
+      PSRC_Human_Optimized_PaleDead_157: -397444590577403799
+      PSRC_Human_Optimized_PaleDead_158: 1047656228589878995
+      PSRC_Human_Optimized_PaleDead_159: 8542684182549177003
+      PSRC_Human_Optimized_PaleDead_16: -6268108262311907790
+      PSRC_Human_Optimized_PaleDead_160: -4659273909485592429
+      PSRC_Human_Optimized_PaleDead_161: 7491025552251023149
+      PSRC_Human_Optimized_PaleDead_162: 883899336745226486
+      PSRC_Human_Optimized_PaleDead_163: -7975995274789501340
+      PSRC_Human_Optimized_PaleDead_164: -9200062264935054529
+      PSRC_Human_Optimized_PaleDead_165: -7615156151148834945
+      PSRC_Human_Optimized_PaleDead_166: 9113881194423594327
+      PSRC_Human_Optimized_PaleDead_167: 1988750890416906305
+      PSRC_Human_Optimized_PaleDead_168: -4503556924795030414
+      PSRC_Human_Optimized_PaleDead_169: -2735040566462643951
+      PSRC_Human_Optimized_PaleDead_17: 133649202781974150
+      PSRC_Human_Optimized_PaleDead_170: -2922108958329782938
+      PSRC_Human_Optimized_PaleDead_171: 6880391948146919616
+      PSRC_Human_Optimized_PaleDead_172: 7182472558650859850
+      PSRC_Human_Optimized_PaleDead_173: -4455152368785820104
+      PSRC_Human_Optimized_PaleDead_174: -5042049666761176740
+      PSRC_Human_Optimized_PaleDead_175: -4662549011477884123
+      PSRC_Human_Optimized_PaleDead_176: -8411345492172558776
+      PSRC_Human_Optimized_PaleDead_177: -2334499251562508358
+      PSRC_Human_Optimized_PaleDead_178: 5739621777945332525
+      PSRC_Human_Optimized_PaleDead_179: -6418541048749788179
+      PSRC_Human_Optimized_PaleDead_18: 6723804883597303092
+      PSRC_Human_Optimized_PaleDead_180: -263743787392146772
+      PSRC_Human_Optimized_PaleDead_181: 6655472370377006740
+      PSRC_Human_Optimized_PaleDead_182: -3831870270104514592
+      PSRC_Human_Optimized_PaleDead_183: 3686252773307468606
+      PSRC_Human_Optimized_PaleDead_184: -622285843977035965
+      PSRC_Human_Optimized_PaleDead_185: 8152816459083910645
+      PSRC_Human_Optimized_PaleDead_186: 8030034755972699413
+      PSRC_Human_Optimized_PaleDead_187: -699974116686674684
+      PSRC_Human_Optimized_PaleDead_188: 7180177623183135216
+      PSRC_Human_Optimized_PaleDead_189: 196272205114656723
+      PSRC_Human_Optimized_PaleDead_19: 1102370575183682020
+      PSRC_Human_Optimized_PaleDead_190: -80945577292311125
+      PSRC_Human_Optimized_PaleDead_191: 2142632604698519905
+      PSRC_Human_Optimized_PaleDead_192: -8767675833286065114
+      PSRC_Human_Optimized_PaleDead_193: -169640279941932602
+      PSRC_Human_Optimized_PaleDead_194: -201380613805385520
+      PSRC_Human_Optimized_PaleDead_195: -376871088475990144
+      PSRC_Human_Optimized_PaleDead_196: 7987157363784872394
+      PSRC_Human_Optimized_PaleDead_197: 1038685285381663488
+      PSRC_Human_Optimized_PaleDead_198: -8040099280373072963
+      PSRC_Human_Optimized_PaleDead_199: 1554460991905692087
+      PSRC_Human_Optimized_PaleDead_2: -7979446381303488410
+      PSRC_Human_Optimized_PaleDead_20: 4799148828638856153
+      PSRC_Human_Optimized_PaleDead_200: 8202250602340819040
+      PSRC_Human_Optimized_PaleDead_201: 7788798423230415065
+      PSRC_Human_Optimized_PaleDead_202: 4573121300551173825
+      PSRC_Human_Optimized_PaleDead_203: 7878427510464420561
+      PSRC_Human_Optimized_PaleDead_204: 3905584009043355306
+      PSRC_Human_Optimized_PaleDead_205: -7892695186071465595
+      PSRC_Human_Optimized_PaleDead_206: 8344632597125117686
+      PSRC_Human_Optimized_PaleDead_207: -5715090456551748598
+      PSRC_Human_Optimized_PaleDead_208: 2180057176796992465
+      PSRC_Human_Optimized_PaleDead_209: -7562436367636536926
+      PSRC_Human_Optimized_PaleDead_21: -7117639254018848219
+      PSRC_Human_Optimized_PaleDead_210: 6335596631762339428
+      PSRC_Human_Optimized_PaleDead_211: 5776920924371728217
+      PSRC_Human_Optimized_PaleDead_212: 8827135921252317516
+      PSRC_Human_Optimized_PaleDead_213: -5843226287230869154
+      PSRC_Human_Optimized_PaleDead_214: 7751125700854939438
+      PSRC_Human_Optimized_PaleDead_215: -1872934489125120870
+      PSRC_Human_Optimized_PaleDead_216: 8791497726453194396
+      PSRC_Human_Optimized_PaleDead_217: -1759160981194497843
+      PSRC_Human_Optimized_PaleDead_218: 4618967825408207799
+      PSRC_Human_Optimized_PaleDead_219: -8558145372127998071
+      PSRC_Human_Optimized_PaleDead_22: -6490079727908049251
+      PSRC_Human_Optimized_PaleDead_220: -1960853119827888852
+      PSRC_Human_Optimized_PaleDead_221: 2408859504601115924
+      PSRC_Human_Optimized_PaleDead_222: -2738436061462569282
+      PSRC_Human_Optimized_PaleDead_223: -1445867973898748767
+      PSRC_Human_Optimized_PaleDead_23: 4605528559240647009
+      PSRC_Human_Optimized_PaleDead_24: 5630101924013199186
+      PSRC_Human_Optimized_PaleDead_25: -8214165589575238308
+      PSRC_Human_Optimized_PaleDead_26: -8731124611325519581
+      PSRC_Human_Optimized_PaleDead_27: -1111033632570321441
+      PSRC_Human_Optimized_PaleDead_28: 5288856547878628298
+      PSRC_Human_Optimized_PaleDead_29: 2750446151244496054
+      PSRC_Human_Optimized_PaleDead_3: -7814961663324176330
+      PSRC_Human_Optimized_PaleDead_30: -6548277797156686681
+      PSRC_Human_Optimized_PaleDead_31: -874431841769036998
+      PSRC_Human_Optimized_PaleDead_32: -6441802061636819245
+      PSRC_Human_Optimized_PaleDead_33: -659190433332327751
+      PSRC_Human_Optimized_PaleDead_34: 2767277074624832154
+      PSRC_Human_Optimized_PaleDead_35: -374189703339686196
+      PSRC_Human_Optimized_PaleDead_36: -5241323847008850049
+      PSRC_Human_Optimized_PaleDead_37: -2586189799134923485
+      PSRC_Human_Optimized_PaleDead_38: 67234704106884673
+      PSRC_Human_Optimized_PaleDead_39: -4963107638613762392
+      PSRC_Human_Optimized_PaleDead_4: 2179453036784016389
+      PSRC_Human_Optimized_PaleDead_40: -6632182950025007813
+      PSRC_Human_Optimized_PaleDead_41: -8117616176578888681
+      PSRC_Human_Optimized_PaleDead_42: -2496016858360735151
+      PSRC_Human_Optimized_PaleDead_43: 5325204120576396982
+      PSRC_Human_Optimized_PaleDead_44: -2094614778027230372
+      PSRC_Human_Optimized_PaleDead_45: -4469919422669870464
+      PSRC_Human_Optimized_PaleDead_46: -18173730415677252
+      PSRC_Human_Optimized_PaleDead_47: -4775994768608240625
+      PSRC_Human_Optimized_PaleDead_48: 1049619763894910489
+      PSRC_Human_Optimized_PaleDead_49: 8308311062113777287
+      PSRC_Human_Optimized_PaleDead_5: -4375566020866666928
+      PSRC_Human_Optimized_PaleDead_50: 8728920084348604097
+      PSRC_Human_Optimized_PaleDead_51: 3706869421394495374
+      PSRC_Human_Optimized_PaleDead_52: -1213516099730702453
+      PSRC_Human_Optimized_PaleDead_53: -4259266444291198563
+      PSRC_Human_Optimized_PaleDead_54: -4227778338396884553
+      PSRC_Human_Optimized_PaleDead_55: -7655889761693363207
+      PSRC_Human_Optimized_PaleDead_56: 736594982706015102
+      PSRC_Human_Optimized_PaleDead_57: 5669743904262151709
+      PSRC_Human_Optimized_PaleDead_58: 6872035120304333684
+      PSRC_Human_Optimized_PaleDead_59: -2756191156909016778
+      PSRC_Human_Optimized_PaleDead_6: -3922978170432375604
+      PSRC_Human_Optimized_PaleDead_60: -3144262996135581842
+      PSRC_Human_Optimized_PaleDead_61: 9083600965722185342
+      PSRC_Human_Optimized_PaleDead_62: 1745608014018362549
+      PSRC_Human_Optimized_PaleDead_63: 724534955009466149
+      PSRC_Human_Optimized_PaleDead_64: -1978722459482821547
+      PSRC_Human_Optimized_PaleDead_65: 1367883733459195892
+      PSRC_Human_Optimized_PaleDead_66: -4559587065664345892
+      PSRC_Human_Optimized_PaleDead_67: 5551596101698632518
+      PSRC_Human_Optimized_PaleDead_68: 4605545372392629122
+      PSRC_Human_Optimized_PaleDead_69: -614308673227772442
+      PSRC_Human_Optimized_PaleDead_7: 711103066320309190
+      PSRC_Human_Optimized_PaleDead_70: 7055099499799621316
+      PSRC_Human_Optimized_PaleDead_71: 1061593550896844587
+      PSRC_Human_Optimized_PaleDead_72: 8234382954575692599
+      PSRC_Human_Optimized_PaleDead_73: -6520660646901986100
+      PSRC_Human_Optimized_PaleDead_74: 4137362537199239462
+      PSRC_Human_Optimized_PaleDead_75: 7726071265497585122
+      PSRC_Human_Optimized_PaleDead_76: 6531273329673815047
+      PSRC_Human_Optimized_PaleDead_77: -2825631029894777939
+      PSRC_Human_Optimized_PaleDead_78: -3929578604042703371
+      PSRC_Human_Optimized_PaleDead_79: -2752482630921297053
+      PSRC_Human_Optimized_PaleDead_8: -7004592742747410888
+      PSRC_Human_Optimized_PaleDead_80: -4290135336210121378
+      PSRC_Human_Optimized_PaleDead_81: -425332898124639173
+      PSRC_Human_Optimized_PaleDead_82: -1027827585617357364
+      PSRC_Human_Optimized_PaleDead_83: 4866505680742386919
+      PSRC_Human_Optimized_PaleDead_84: 5994967491990836770
+      PSRC_Human_Optimized_PaleDead_85: 5741814641370140636
+      PSRC_Human_Optimized_PaleDead_86: -3222853801554972553
+      PSRC_Human_Optimized_PaleDead_87: 25537998421170498
+      PSRC_Human_Optimized_PaleDead_88: -3152842640170880254
+      PSRC_Human_Optimized_PaleDead_89: -1184128763295494380
+      PSRC_Human_Optimized_PaleDead_9: 6438328724216816694
+      PSRC_Human_Optimized_PaleDead_90: 4113543893789044535
+      PSRC_Human_Optimized_PaleDead_91: 7691437476630072823
+      PSRC_Human_Optimized_PaleDead_92: 8930468450225509791
+      PSRC_Human_Optimized_PaleDead_93: -6980775771579528939
+      PSRC_Human_Optimized_PaleDead_94: 1025773414790574665
+      PSRC_Human_Optimized_PaleDead_95: -9009900092385184391
+      PSRC_Human_Optimized_PaleDead_96: 2290108598016686223
+      PSRC_Human_Optimized_PaleDead_97: -484392459210031140
+      PSRC_Human_Optimized_PaleDead_98: -1344512878373599010
+      PSRC_Human_Optimized_PaleDead_99: -2001306918207272370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
