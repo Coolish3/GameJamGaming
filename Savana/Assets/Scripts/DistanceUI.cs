@@ -5,21 +5,10 @@ using UnityEngine;
 
 public class DistanceUI : MonoBehaviour
 {
-    [SerializeField] private TextMeshProUGUI DistanceText;
-    [SerializeField] private Transform MetersRan;
-
-    private float startingLineLoc;
-    private float currentDistanceExact;
-    private float currentDistanceRounded;
-    void Start()
-    {
-        startingLineLoc = MetersRan.transform.position.x;
-    }
+    [SerializeField] private TextMeshProUGUI textUI;
     void Update()
     {
-        currentDistanceExact = MetersRan.transform.position.x - startingLineLoc;
-        currentDistanceRounded = Mathf.Floor(currentDistanceExact);
-        DistanceText.text = currentDistanceRounded.ToString();
+        textUI.text = "Meters: " + GameManager.Instance.GetDistanceRounded().ToString() + "/nKills: " + GameManager.Instance.GetKills().ToString();
     }
 
 }
